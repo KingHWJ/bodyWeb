@@ -1,6 +1,7 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 
+import { buildCoverageSummary, buildScrapePlan } from "../src/lib/content/scrape-plan";
 import { parseComparisonStandardsHtml, parseExerciseStandardsHtml } from "../src/lib/content/standards-parser";
 
 type Inventory = {
@@ -16,17 +17,20 @@ async function main() {
 
   await mkdir(normalizedDir, { recursive: true });
 
-  const targets = process.argv.slice(2);
-  const exerciseTargets = targets.filter((target) => !target.includes("-vs-"));
-  const comparisonTargets = targets.filter((target) => target.includes("-vs-"));
+  const existingFiles = await readdir(normalizedDir);
+  const plan = buildScrapePlan(process.argv.slice(2), inventory, existingFiles);
 
-  await scrapeExercisePages(
-    exerciseTargets.length > 0 ? exerciseTargets : inventory.exerciseStandardSlugs.slice(0, 10),
-    normalizedDir,
+  console.log(
+    `抓取计划：普通动作 ${plan.exerciseSlugs.length} 个，对比页 ${plan.comparisonSlugs.length} 个，续跑模式 ${plan.resume ? "开启" : "关闭"}`,
   );
-  await scrapeComparisonPages(
-    comparisonTargets.length > 0 ? comparisonTargets : inventory.comparisonStandardSlugs.slice(0, 10),
-    normalizedDir,
+
+  await scrapeExercisePages(plan.exerciseSlugs, normalizedDir);
+  await scrapeComparisonPages(plan.comparisonSlugs, normalizedDir);
+
+  const finalFiles = await readdir(normalizedDir);
+  const coverage = buildCoverageSummary(inventory, finalFiles);
+  console.log(
+    `覆盖率：普通动作 ${coverage.exercise.completed}/${coverage.exercise.total}，对比页 ${coverage.comparison.completed}/${coverage.comparison.total}`,
   );
 }
 

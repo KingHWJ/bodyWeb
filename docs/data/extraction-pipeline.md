@@ -13,6 +13,11 @@
   - 普通动作标准页
   - 动作对比页
   - 聚合标准页
+- 当前标准页抓取命令：
+  - `npm run scrape:standards`：抓取默认示例队列
+  - `npm run scrape:standards -- --all-exercises`：抓取全部普通动作标准页
+  - `npm run scrape:standards -- --all-comparisons --limit 50`：限量抓取动作对比页
+  - `npm run scrape:standards -- --all --resume`：跳过已抓取完成的 slug，继续补抓剩余页面
 
 ## 第三阶段：标准化
 - 统一枚举：
@@ -43,4 +48,5 @@
 - 不采集登录态内容
 - 不保留非训练核心页面
 - 抓取脚本支持按 slug 定向补抓，便于先验证重点动作页再扩展到全量目录
+- 抓取结束后会输出普通动作页和对比页的双单位覆盖率，便于追踪 normalized 数据进度
 - 抓取脚本当前支持通过命令行传入指定 slug，便于分批补齐和断点续抓
