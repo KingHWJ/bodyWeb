@@ -16,8 +16,18 @@ async function main() {
 
   await mkdir(normalizedDir, { recursive: true });
 
-  await scrapeExercisePages(inventory.exerciseStandardSlugs.slice(0, 10), normalizedDir);
-  await scrapeComparisonPages(inventory.comparisonStandardSlugs.slice(0, 10), normalizedDir);
+  const targets = process.argv.slice(2);
+  const exerciseTargets = targets.filter((target) => !target.includes("-vs-"));
+  const comparisonTargets = targets.filter((target) => target.includes("-vs-"));
+
+  await scrapeExercisePages(
+    exerciseTargets.length > 0 ? exerciseTargets : inventory.exerciseStandardSlugs.slice(0, 10),
+    normalizedDir,
+  );
+  await scrapeComparisonPages(
+    comparisonTargets.length > 0 ? comparisonTargets : inventory.comparisonStandardSlugs.slice(0, 10),
+    normalizedDir,
+  );
 }
 
 async function scrapeExercisePages(slugs: string[], normalizedDir: string) {
