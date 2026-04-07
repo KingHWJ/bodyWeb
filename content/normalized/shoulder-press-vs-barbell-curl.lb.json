@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Shoulder Press",
+  "rightName": "Barbell Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "66 lb",
+      "rightValue": "38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "142 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "192 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "248 lb",
+      "rightValue": "201 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "48 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "75 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "107 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "143 lb",
+      "rightValue": "120 lb"
+    }
+  ]
+}

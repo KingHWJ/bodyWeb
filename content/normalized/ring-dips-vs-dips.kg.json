@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Ring Dips",
+  "rightName": "Dips",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-12 kg",
+      "rightValue": "-8 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+8 kg",
+      "rightValue": "+18 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+33 kg",
+      "rightValue": "+50 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+60 kg",
+      "rightValue": "+86 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+89 kg",
+      "rightValue": "+125 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-19 kg",
+      "rightValue": "-20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-4 kg",
+      "rightValue": "-3 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+14 kg",
+      "rightValue": "+19 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+34 kg",
+      "rightValue": "+45 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+55 kg",
+      "rightValue": "+72 kg"
+    }
+  ]
+}

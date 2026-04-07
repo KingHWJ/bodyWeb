@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat",
+  "rightName": "Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "141 lb",
+      "rightValue": "-4 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "206 lb",
+      "rightValue": "+95 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "287 lb",
+      "rightValue": "+223 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "381 lb",
+      "rightValue": "+377 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "483 lb",
+      "rightValue": "+547 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "65 lb",
+      "rightValue": "-37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "107 lb",
+      "rightValue": "+16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "161 lb",
+      "rightValue": "+84 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "+164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "300 lb",
+      "rightValue": "+251 lb"
+    }
+  ]
+}

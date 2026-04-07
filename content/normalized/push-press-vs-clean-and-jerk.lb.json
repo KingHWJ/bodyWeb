@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Press",
+  "rightName": "Clean And Jerk",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "82 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "126 lb",
+      "rightValue": "145 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "183 lb",
+      "rightValue": "204 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "251 lb",
+      "rightValue": "273 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "325 lb",
+      "rightValue": "349 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "49 lb",
+      "rightValue": "61 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "73 lb",
+      "rightValue": "88 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "102 lb",
+      "rightValue": "121 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "137 lb",
+      "rightValue": "159 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "175 lb",
+      "rightValue": "201 lb"
+    }
+  ]
+}

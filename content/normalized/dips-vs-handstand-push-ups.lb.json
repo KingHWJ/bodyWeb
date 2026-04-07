@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dips",
+  "rightName": "Handstand Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 lb",
+      "rightValue": "-80 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+41 lb",
+      "rightValue": "-19 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+110 lb",
+      "rightValue": "+63 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+190 lb",
+      "rightValue": "+163 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+276 lb",
+      "rightValue": "+275 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-45 lb",
+      "rightValue": "-55 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-6 lb",
+      "rightValue": "-14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+43 lb",
+      "rightValue": "+37 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+98 lb",
+      "rightValue": "+98 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+159 lb",
+      "rightValue": "+165 lb"
+    }
+  ]
+}

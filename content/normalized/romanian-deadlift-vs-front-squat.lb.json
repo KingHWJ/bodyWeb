@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Romanian Deadlift",
+  "rightName": "Front Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "121 lb",
+      "rightValue": "120 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "185 lb",
+      "rightValue": "170 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "266 lb",
+      "rightValue": "232 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "361 lb",
+      "rightValue": "303 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "466 lb",
+      "rightValue": "379 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "63 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "98 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "146 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "201 lb",
+      "rightValue": "183 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "262 lb",
+      "rightValue": "232 lb"
+    }
+  ]
+}

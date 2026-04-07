@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Lateral Raise",
+  "rightName": "Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "141 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 lb",
+      "rightValue": "287 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "54 lb",
+      "rightValue": "381 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 lb",
+      "rightValue": "483 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 lb",
+      "rightValue": "107 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "20 lb",
+      "rightValue": "161 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "31 lb",
+      "rightValue": "227 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "44 lb",
+      "rightValue": "300 lb"
+    }
+  ]
+}

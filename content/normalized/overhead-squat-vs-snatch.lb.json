@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Overhead Squat",
+  "rightName": "Snatch",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "60 lb",
+      "rightValue": "77 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "110 lb",
+      "rightValue": "117 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "179 lb",
+      "rightValue": "168 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "264 lb",
+      "rightValue": "227 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "360 lb",
+      "rightValue": "293 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "95 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "142 lb",
+      "rightValue": "129 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "187 lb",
+      "rightValue": "165 lb"
+    }
+  ]
+}

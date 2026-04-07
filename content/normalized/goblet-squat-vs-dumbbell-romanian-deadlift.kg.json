@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Goblet Squat",
+  "rightName": "Dumbbell Romanian Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "42 kg",
+      "rightValue": "41 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "63 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "87 kg",
+      "rightValue": "85 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 kg",
+      "rightValue": "16 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "26 kg",
+      "rightValue": "26 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "39 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "52 kg",
+      "rightValue": "51 kg"
+    }
+  ]
+}

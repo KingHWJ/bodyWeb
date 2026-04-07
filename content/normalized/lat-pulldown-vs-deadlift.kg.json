@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lat Pulldown",
+  "rightName": "Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "78 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "58 kg",
+      "rightValue": "112 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "82 kg",
+      "rightValue": "152 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "110 kg",
+      "rightValue": "200 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "141 kg",
+      "rightValue": "250 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 kg",
+      "rightValue": "60 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "64 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "83 kg",
+      "rightValue": "157 kg"
+    }
+  ]
+}

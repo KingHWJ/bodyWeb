@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Cable Row",
+  "rightName": "Cable Upright Row",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "61 kg",
+      "rightValue": "41 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "86 kg",
+      "rightValue": "69 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 kg",
+      "rightValue": "105 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "145 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "32 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "66 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "86 kg",
+      "rightValue": "70 kg"
+    }
+  ]
+}

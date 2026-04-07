@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat Thrust",
+  "rightName": "Mountain Climbers",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-60 lb",
+      "rightValue": "-39 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+33 lb",
+      "rightValue": "+71 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+163 lb",
+      "rightValue": "+224 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+326 lb",
+      "rightValue": "+415 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+511 lb",
+      "rightValue": "+633 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-76 lb",
+      "rightValue": "-30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-5 lb",
+      "rightValue": "+46 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+98 lb",
+      "rightValue": "+146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+230 lb",
+      "rightValue": "+269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+383 lb",
+      "rightValue": "+407 lb"
+    }
+  ]
+}

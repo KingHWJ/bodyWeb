@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Ez Bar Curl",
+  "rightName": "Barbell Shrug",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "45 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 lb",
+      "rightValue": "181 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "103 lb",
+      "rightValue": "288 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "142 lb",
+      "rightValue": "420 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "186 lb",
+      "rightValue": "570 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "40 lb",
+      "rightValue": "81 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "62 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "88 lb",
+      "rightValue": "235 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "118 lb",
+      "rightValue": "337 lb"
+    }
+  ]
+}

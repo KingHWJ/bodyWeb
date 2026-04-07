@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Box Squat",
+  "rightName": "Pin Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "69 kg",
+      "rightValue": "56 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "106 kg",
+      "rightValue": "94 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "153 kg",
+      "rightValue": "143 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "209 kg",
+      "rightValue": "203 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "270 kg",
+      "rightValue": "270 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "59 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "120 kg",
+      "rightValue": "92 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "156 kg",
+      "rightValue": "120 kg"
+    }
+  ]
+}

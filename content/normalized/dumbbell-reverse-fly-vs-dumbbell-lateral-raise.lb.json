@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Reverse Fly",
+  "rightName": "Dumbbell Lateral Raise",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "5 lb",
+      "rightValue": "8 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "39 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "70 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "106 lb",
+      "rightValue": "79 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 lb",
+      "rightValue": "6 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "11 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "22 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "37 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "55 lb",
+      "rightValue": "44 lb"
+    }
+  ]
+}

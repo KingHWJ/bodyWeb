@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deadlift",
+  "rightName": "Jefferson Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "78 kg",
+      "rightValue": "65 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "112 kg",
+      "rightValue": "104 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "152 kg",
+      "rightValue": "155 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "200 kg",
+      "rightValue": "216 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "250 kg",
+      "rightValue": "283 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "25 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 kg",
+      "rightValue": "43 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 kg",
+      "rightValue": "66 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "120 kg",
+      "rightValue": "94 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "157 kg",
+      "rightValue": "125 kg"
+    }
+  ]
+}

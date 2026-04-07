@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat",
+  "rightName": "Smith Machine Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "141 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "206 lb",
+      "rightValue": "174 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "287 lb",
+      "rightValue": "265 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "381 lb",
+      "rightValue": "374 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "483 lb",
+      "rightValue": "497 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "65 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "107 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "161 lb",
+      "rightValue": "146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "216 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "300 lb",
+      "rightValue": "296 lb"
+    }
+  ]
+}

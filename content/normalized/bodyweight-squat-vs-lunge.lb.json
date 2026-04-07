@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bodyweight Squat",
+  "rightName": "Lunge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-68 lb",
+      "rightValue": "-56 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+84 lb",
+      "rightValue": "+54 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+318 lb",
+      "rightValue": "+209 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+628 lb",
+      "rightValue": "+405 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+994 lb",
+      "rightValue": "+630 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-70 lb",
+      "rightValue": "-38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+30 lb",
+      "rightValue": "+33 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+181 lb",
+      "rightValue": "+128 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+380 lb",
+      "rightValue": "+244 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+613 lb",
+      "rightValue": "+374 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bodyweight Squat",
+  "rightName": "Nordic Hamstring Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-68 lb",
+      "rightValue": "-73 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+84 lb",
+      "rightValue": "-16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+318 lb",
+      "rightValue": "+58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+628 lb",
+      "rightValue": "+146 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+994 lb",
+      "rightValue": "+243 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-70 lb",
+      "rightValue": "-43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+30 lb",
+      "rightValue": "+6 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+181 lb",
+      "rightValue": "+69 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+380 lb",
+      "rightValue": "+143 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+613 lb",
+      "rightValue": "+224 lb"
+    }
+  ]
+}

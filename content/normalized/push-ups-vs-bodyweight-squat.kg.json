@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Bodyweight Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-2 kg",
+      "rightValue": "-31 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+43 kg",
+      "rightValue": "+38 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+101 kg",
+      "rightValue": "+144 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+171 kg",
+      "rightValue": "+285 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+248 kg",
+      "rightValue": "+451 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 kg",
+      "rightValue": "-32 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+8 kg",
+      "rightValue": "+14 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+38 kg",
+      "rightValue": "+82 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+74 kg",
+      "rightValue": "+172 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+114 kg",
+      "rightValue": "+278 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Clap Pull Up",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-4 lb",
+      "rightValue": "-46 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+95 lb",
+      "rightValue": "+1 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+223 lb",
+      "rightValue": "+59 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+377 lb",
+      "rightValue": "+125 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+547 lb",
+      "rightValue": "+197 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-45 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+16 lb",
+      "rightValue": "-17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+84 lb",
+      "rightValue": "+17 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+164 lb",
+      "rightValue": "+54 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+251 lb",
+      "rightValue": "+94 lb"
+    }
+  ]
+}

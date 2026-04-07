@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Machine Chest Fly",
+  "rightName": "Dumbbell Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "74 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "125 lb",
+      "rightValue": "59 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "192 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "274 lb",
+      "rightValue": "129 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "365 lb",
+      "rightValue": "171 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "25 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "51 lb",
+      "rightValue": "26 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "89 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "137 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "192 lb",
+      "rightValue": "101 lb"
+    }
+  ]
+}

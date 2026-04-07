@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Hack Squat",
+  "rightName": "Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "110 lb",
+      "rightValue": "173 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "183 lb",
+      "rightValue": "246 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "278 lb",
+      "rightValue": "336 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "393 lb",
+      "rightValue": "440 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "522 lb",
+      "rightValue": "552 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "42 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 lb",
+      "rightValue": "132 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "105 lb",
+      "rightValue": "193 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "148 lb",
+      "rightValue": "265 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "196 lb",
+      "rightValue": "345 lb"
+    }
+  ]
+}

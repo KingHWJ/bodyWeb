@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bent Over Row",
+  "rightName": "Ez Bar Curl",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "85 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 kg",
+      "rightValue": "65 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "84 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "11 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "41 kg",
+      "rightValue": "28 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "59 kg",
+      "rightValue": "40 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 kg",
+      "rightValue": "53 kg"
+    }
+  ]
+}

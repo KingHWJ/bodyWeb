@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Pull",
+  "rightName": "Bent Over Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "82 lb",
+      "rightValue": "89 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "130 lb",
+      "rightValue": "133 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "191 lb",
+      "rightValue": "188 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "264 lb",
+      "rightValue": "253 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "345 lb",
+      "rightValue": "323 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "44 lb",
+      "rightValue": "58 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "71 lb",
+      "rightValue": "91 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "105 lb",
+      "rightValue": "130 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "144 lb",
+      "rightValue": "175 lb"
+    }
+  ]
+}

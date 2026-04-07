@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bulgarian Split Squat",
+  "rightName": "Good Morning",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "73 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "135 lb",
+      "rightValue": "191 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "216 lb",
+      "rightValue": "296 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "310 lb",
+      "rightValue": "416 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "43 lb",
+      "rightValue": "57 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "76 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "117 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "166 lb",
+      "rightValue": "207 lb"
+    }
+  ]
+}

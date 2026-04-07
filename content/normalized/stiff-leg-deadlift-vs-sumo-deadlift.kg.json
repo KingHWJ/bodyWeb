@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Stiff Leg Deadlift",
+  "rightName": "Sumo Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "54 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "84 kg",
+      "rightValue": "122 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "124 kg",
+      "rightValue": "165 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "171 kg",
+      "rightValue": "214 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "223 kg",
+      "rightValue": "266 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 kg",
+      "rightValue": "48 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "45 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "67 kg",
+      "rightValue": "93 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "94 kg",
+      "rightValue": "122 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "124 kg",
+      "rightValue": "154 kg"
+    }
+  ]
+}

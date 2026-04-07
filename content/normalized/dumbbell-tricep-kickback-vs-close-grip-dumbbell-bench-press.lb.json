@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Tricep Kickback",
+  "rightName": "Close Grip Dumbbell Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 lb",
+      "rightValue": "22 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "21 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "40 lb",
+      "rightValue": "78 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "65 lb",
+      "rightValue": "120 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "94 lb",
+      "rightValue": "168 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 lb",
+      "rightValue": "9 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "14 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "24 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "37 lb",
+      "rightValue": "56 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "51 lb",
+      "rightValue": "80 lb"
+    }
+  ]
+}

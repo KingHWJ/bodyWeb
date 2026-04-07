@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Glute Bridge",
+  "rightName": "Glute Ham Raise",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-82 lb",
+      "rightValue": "-70 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+32 lb",
+      "rightValue": "+12 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+203 lb",
+      "rightValue": "+125 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+427 lb",
+      "rightValue": "+265 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+690 lb",
+      "rightValue": "+423 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-51 lb",
+      "rightValue": "-34 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+28 lb",
+      "rightValue": "+50 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+140 lb",
+      "rightValue": "+165 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+279 lb",
+      "rightValue": "+308 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+439 lb",
+      "rightValue": "+470 lb"
+    }
+  ]
+}

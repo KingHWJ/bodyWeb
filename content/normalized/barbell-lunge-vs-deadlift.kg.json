@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Lunge",
+  "rightName": "Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "30 kg",
+      "rightValue": "78 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "52 kg",
+      "rightValue": "112 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "82 kg",
+      "rightValue": "152 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "119 kg",
+      "rightValue": "200 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "160 kg",
+      "rightValue": "250 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "32 kg",
+      "rightValue": "60 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "50 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "96 kg",
+      "rightValue": "157 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sled Leg Press",
+  "rightName": "Leg Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "191 lb",
+      "rightValue": "78 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "323 lb",
+      "rightValue": "135 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "499 lb",
+      "rightValue": "212 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "713 lb",
+      "rightValue": "306 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "953 lb",
+      "rightValue": "411 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "91 lb",
+      "rightValue": "39 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "181 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "310 lb",
+      "rightValue": "128 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "472 lb",
+      "rightValue": "193 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "659 lb",
+      "rightValue": "268 lb"
+    }
+  ]
+}

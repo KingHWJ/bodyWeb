@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Press",
+  "rightName": "Lat Pulldown",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "154 lb",
+      "rightValue": "127 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "217 lb",
+      "rightValue": "180 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "291 lb",
+      "rightValue": "243 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "372 lb",
+      "rightValue": "312 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "111 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "164 lb",
+      "rightValue": "140 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "223 lb",
+      "rightValue": "184 lb"
+    }
+  ]
+}

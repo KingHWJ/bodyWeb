@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Single Leg Deadlift",
+  "rightName": "Barbell Glute Bridge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "65 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "140 lb",
+      "rightValue": "259 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "244 lb",
+      "rightValue": "401 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "370 lb",
+      "rightValue": "566 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "37 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "61 lb",
+      "rightValue": "203 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "91 lb",
+      "rightValue": "300 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "125 lb",
+      "rightValue": "410 lb"
+    }
+  ]
+}

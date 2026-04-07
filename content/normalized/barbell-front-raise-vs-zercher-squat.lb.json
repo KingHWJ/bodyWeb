@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Front Raise",
+  "rightName": "Zercher Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "34 lb",
+      "rightValue": "173 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "84 lb",
+      "rightValue": "253 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "157 lb",
+      "rightValue": "349 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "248 lb",
+      "rightValue": "454 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "53 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 lb",
+      "rightValue": "91 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "43 lb",
+      "rightValue": "141 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "65 lb",
+      "rightValue": "202 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "90 lb",
+      "rightValue": "271 lb"
+    }
+  ]
+}

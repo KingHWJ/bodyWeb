@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Curl",
+  "rightName": "Dumbbell Lateral Raise",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "8 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "29 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "80 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "113 lb",
+      "rightValue": "79 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "6 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "30 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "47 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "67 lb",
+      "rightValue": "44 lb"
+    }
+  ]
+}

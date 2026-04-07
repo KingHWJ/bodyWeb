@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hip Thrust",
+  "rightName": "Barbell Reverse Lunge",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "76 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "129 kg",
+      "rightValue": "99 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "196 kg",
+      "rightValue": "135 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "273 kg",
+      "rightValue": "175 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "30 kg",
+      "rightValue": "22 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "56 kg",
+      "rightValue": "36 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "93 kg",
+      "rightValue": "53 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "139 kg",
+      "rightValue": "75 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "191 kg",
+      "rightValue": "98 kg"
+    }
+  ]
+}

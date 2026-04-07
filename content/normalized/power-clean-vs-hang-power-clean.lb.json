@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Power Clean",
+  "rightName": "Hang Power Clean",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "102 lb",
+      "rightValue": "92 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 lb",
+      "rightValue": "134 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "202 lb",
+      "rightValue": "186 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "266 lb",
+      "rightValue": "246 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "336 lb",
+      "rightValue": "311 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "60 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "86 lb",
+      "rightValue": "87 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "119 lb",
+      "rightValue": "113 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "156 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "197 lb",
+      "rightValue": "172 lb"
+    }
+  ]
+}

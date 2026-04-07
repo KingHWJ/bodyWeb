@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deadlift",
+  "rightName": "Barbell Reverse Lunge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "173 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "246 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "336 lb",
+      "rightValue": "217 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "440 lb",
+      "rightValue": "297 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "552 lb",
+      "rightValue": "385 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "132 lb",
+      "rightValue": "79 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "193 lb",
+      "rightValue": "118 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "265 lb",
+      "rightValue": "164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "345 lb",
+      "rightValue": "216 lb"
+    }
+  ]
+}

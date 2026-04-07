@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pause Squat",
+  "rightName": "Belt Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "151 lb",
+      "rightValue": "115 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "213 lb",
+      "rightValue": "226 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "289 lb",
+      "rightValue": "381 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "377 lb",
+      "rightValue": "577 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "471 lb",
+      "rightValue": "803 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "71 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "112 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "164 lb",
+      "rightValue": "79 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "226 lb",
+      "rightValue": "118 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "295 lb",
+      "rightValue": "164 lb"
+    }
+  ]
+}

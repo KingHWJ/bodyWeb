@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hammer Curl",
+  "rightName": "Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "15 kg",
+      "rightValue": "70 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "23 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "34 kg",
+      "rightValue": "132 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "46 kg",
+      "rightValue": "169 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "8 kg",
+      "rightValue": "31 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "13 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "19 kg",
+      "rightValue": "74 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "26 kg",
+      "rightValue": "101 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Shoulder Press",
+  "rightName": "Goblet Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "29 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "47 lb",
+      "rightValue": "56 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "71 lb",
+      "rightValue": "93 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "100 lb",
+      "rightValue": "140 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "132 lb",
+      "rightValue": "192 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "22 lb",
+      "rightValue": "37 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 lb",
+      "rightValue": "58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "50 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "68 lb",
+      "rightValue": "115 lb"
+    }
+  ]
+}

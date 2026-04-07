@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Leg Curl",
+  "rightName": "Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "64 lb",
+      "rightValue": "141 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "111 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "174 lb",
+      "rightValue": "287 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "252 lb",
+      "rightValue": "381 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "338 lb",
+      "rightValue": "483 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "35 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "64 lb",
+      "rightValue": "107 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "105 lb",
+      "rightValue": "161 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "155 lb",
+      "rightValue": "227 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "212 lb",
+      "rightValue": "300 lb"
+    }
+  ]
+}

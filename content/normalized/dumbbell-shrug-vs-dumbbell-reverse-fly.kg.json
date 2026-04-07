@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Shrug",
+  "rightName": "Dumbbell Reverse Fly",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 kg",
+      "rightValue": "2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "27 kg",
+      "rightValue": "8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "69 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "95 kg",
+      "rightValue": "48 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "14 kg",
+      "rightValue": "5 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "27 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "43 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "62 kg",
+      "rightValue": "25 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Hack Squat",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "50 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "83 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "126 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "178 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "237 kg",
+      "rightValue": "141 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 kg",
+      "rightValue": "53 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "89 kg",
+      "rightValue": "75 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deficit Deadlift",
+  "rightName": "Stiff Leg Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "199 lb",
+      "rightValue": "119 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "274 lb",
+      "rightValue": "186 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "366 lb",
+      "rightValue": "273 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "472 lb",
+      "rightValue": "376 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "584 lb",
+      "rightValue": "491 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "74 lb",
+      "rightValue": "61 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "116 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "169 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "233 lb",
+      "rightValue": "207 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "303 lb",
+      "rightValue": "272 lb"
+    }
+  ]
+}

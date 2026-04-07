@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Press",
+  "rightName": "Tricep Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "154 lb",
+      "rightValue": "60 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "217 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "291 lb",
+      "rightValue": "172 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "372 lb",
+      "rightValue": "245 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 lb",
+      "rightValue": "9 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "111 lb",
+      "rightValue": "50 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "164 lb",
+      "rightValue": "83 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "223 lb",
+      "rightValue": "123 lb"
+    }
+  ]
+}

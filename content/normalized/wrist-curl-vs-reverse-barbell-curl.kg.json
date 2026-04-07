@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Wrist Curl",
+  "rightName": "Reverse Barbell Curl",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 kg",
+      "rightValue": "11 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "21 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 kg",
+      "rightValue": "42 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "96 kg",
+      "rightValue": "65 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "152 kg",
+      "rightValue": "91 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "0 kg",
+      "rightValue": "1 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "10 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 kg",
+      "rightValue": "27 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "120 kg",
+      "rightValue": "90 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Tricep Rope Pushdown",
+  "rightName": "Straight Arm Pulldown",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "57 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 kg",
+      "rightValue": "86 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "98 kg",
+      "rightValue": "120 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "15 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "26 kg",
+      "rightValue": "26 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "40 kg",
+      "rightValue": "42 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "56 kg",
+      "rightValue": "61 kg"
+    }
+  ]
+}

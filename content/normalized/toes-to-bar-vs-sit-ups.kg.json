@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Toes To Bar",
+  "rightName": "Sit Ups",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-21 kg",
+      "rightValue": "-9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+6 kg",
+      "rightValue": "+56 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+39 kg",
+      "rightValue": "+146 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+77 kg",
+      "rightValue": "+261 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+119 kg",
+      "rightValue": "+393 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-16 kg",
+      "rightValue": "-20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+1 kg",
+      "rightValue": "+25 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+21 kg",
+      "rightValue": "+90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+44 kg",
+      "rightValue": "+172 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+68 kg",
+      "rightValue": "+268 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Row",
+  "rightName": "Dumbbell Tricep Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "35 lb",
+      "rightValue": "11 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "94 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "136 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "182 lb",
+      "rightValue": "122 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "30 lb",
+      "rightValue": "16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "68 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "92 lb",
+      "rightValue": "63 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sumo Deadlift",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "192 lb",
+      "rightValue": "32 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "269 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "363 lb",
+      "rightValue": "135 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "471 lb",
+      "rightValue": "216 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "587 lb",
+      "rightValue": "310 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "105 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "150 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "205 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "269 lb",
+      "rightValue": "117 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "339 lb",
+      "rightValue": "166 lb"
+    }
+  ]
+}

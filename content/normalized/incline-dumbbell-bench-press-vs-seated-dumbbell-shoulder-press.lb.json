@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Incline Dumbbell Bench Press",
+  "rightName": "Seated Dumbbell Shoulder Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "62 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "117 lb",
+      "rightValue": "98 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "149 lb",
+      "rightValue": "130 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 lb",
+      "rightValue": "23 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 lb",
+      "rightValue": "36 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "65 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "89 lb",
+      "rightValue": "71 lb"
+    }
+  ]
+}

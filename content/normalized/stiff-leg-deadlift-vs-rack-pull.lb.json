@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Stiff Leg Deadlift",
+  "rightName": "Rack Pull",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "119 lb",
+      "rightValue": "204 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "186 lb",
+      "rightValue": "300 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "273 lb",
+      "rightValue": "420 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "376 lb",
+      "rightValue": "560 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "491 lb",
+      "rightValue": "712 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "61 lb",
+      "rightValue": "115 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "176 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "148 lb",
+      "rightValue": "255 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "207 lb",
+      "rightValue": "349 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "272 lb",
+      "rightValue": "452 lb"
+    }
+  ]
+}

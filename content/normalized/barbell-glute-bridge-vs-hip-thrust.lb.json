@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Glute Bridge",
+  "rightName": "Hip Thrust",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "71 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "148 lb",
+      "rightValue": "167 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "259 lb",
+      "rightValue": "284 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "401 lb",
+      "rightValue": "432 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "566 lb",
+      "rightValue": "603 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "67 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "124 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "203 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "300 lb",
+      "rightValue": "306 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "410 lb",
+      "rightValue": "421 lb"
+    }
+  ]
+}

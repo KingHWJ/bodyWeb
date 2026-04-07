@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Shoulder Press",
+  "rightName": "Log Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "46 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "70 kg",
+      "rightValue": "97 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "100 kg",
+      "rightValue": "133 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "132 kg",
+      "rightValue": "172 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "31 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "49 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "70 kg",
+      "rightValue": "71 kg"
+    }
+  ]
+}

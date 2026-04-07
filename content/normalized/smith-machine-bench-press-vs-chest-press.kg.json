@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Smith Machine Bench Press",
+  "rightName": "Chest Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "46 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 kg",
+      "rightValue": "57 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "97 kg",
+      "rightValue": "90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "130 kg",
+      "rightValue": "131 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "166 kg",
+      "rightValue": "177 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "77 kg",
+      "rightValue": "59 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "106 kg",
+      "rightValue": "84 kg"
+    }
+  ]
+}

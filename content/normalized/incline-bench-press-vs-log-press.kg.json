@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Incline Bench Press",
+  "rightName": "Log Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "64 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "89 kg",
+      "rightValue": "97 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "118 kg",
+      "rightValue": "133 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "149 kg",
+      "rightValue": "172 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "93 kg",
+      "rightValue": "71 kg"
+    }
+  ]
+}

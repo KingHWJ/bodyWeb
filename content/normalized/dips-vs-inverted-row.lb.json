@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dips",
+  "rightName": "Inverted Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 lb",
+      "rightValue": "-42 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+41 lb",
+      "rightValue": "+22 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+110 lb",
+      "rightValue": "+103 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+190 lb",
+      "rightValue": "+198 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+276 lb",
+      "rightValue": "+302 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-45 lb",
+      "rightValue": "-42 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-6 lb",
+      "rightValue": "+2 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+43 lb",
+      "rightValue": "+58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+98 lb",
+      "rightValue": "+122 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+159 lb",
+      "rightValue": "+192 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lying Tricep Extension",
+  "rightName": "Close Grip Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "34 lb",
+      "rightValue": "104 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "96 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "140 lb",
+      "rightValue": "271 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "189 lb",
+      "rightValue": "342 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "49 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "76 lb",
+      "rightValue": "153 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "107 lb",
+      "rightValue": "202 lb"
+    }
+  ]
+}

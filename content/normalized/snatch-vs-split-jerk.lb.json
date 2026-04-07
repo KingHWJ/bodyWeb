@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Snatch",
+  "rightName": "Split Jerk",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "77 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "117 lb",
+      "rightValue": "152 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "168 lb",
+      "rightValue": "207 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "293 lb",
+      "rightValue": "336 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 lb",
+      "rightValue": "70 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 lb",
+      "rightValue": "95 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "95 lb",
+      "rightValue": "127 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "129 lb",
+      "rightValue": "162 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "165 lb",
+      "rightValue": "201 lb"
+    }
+  ]
+}

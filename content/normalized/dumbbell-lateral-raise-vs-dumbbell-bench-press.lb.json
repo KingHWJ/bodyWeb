@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Lateral Raise",
+  "rightName": "Dumbbell Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 lb",
+      "rightValue": "59 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "54 lb",
+      "rightValue": "129 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 lb",
+      "rightValue": "171 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 lb",
+      "rightValue": "26 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "20 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "31 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "44 lb",
+      "rightValue": "101 lb"
+    }
+  ]
+}

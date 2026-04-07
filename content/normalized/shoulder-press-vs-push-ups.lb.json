@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Shoulder Press",
+  "rightName": "Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "66 lb",
+      "rightValue": "-4 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "+95 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "142 lb",
+      "rightValue": "+223 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "192 lb",
+      "rightValue": "+377 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "248 lb",
+      "rightValue": "+547 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 lb",
+      "rightValue": "-37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "48 lb",
+      "rightValue": "+16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "75 lb",
+      "rightValue": "+84 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "107 lb",
+      "rightValue": "+164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "143 lb",
+      "rightValue": "+251 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Cable Kickback",
+  "rightName": "One Arm Pulldown",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "10 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "23 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 lb",
+      "rightValue": "83 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "70 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "102 lb",
+      "rightValue": "243 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 lb",
+      "rightValue": "8 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "27 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "60 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "106 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "163 lb",
+      "rightValue": "67 lb"
+    }
+  ]
+}

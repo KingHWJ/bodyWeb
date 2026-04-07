@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Machine Reverse Fly",
+  "rightName": "Machine Chest Fly",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "50 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "89 lb",
+      "rightValue": "125 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "141 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "205 lb",
+      "rightValue": "274 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "277 lb",
+      "rightValue": "365 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "51 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "32 lb",
+      "rightValue": "89 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "52 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "76 lb",
+      "rightValue": "192 lb"
+    }
+  ]
+}

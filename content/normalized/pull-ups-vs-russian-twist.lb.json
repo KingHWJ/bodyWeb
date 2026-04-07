@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pull Ups",
+  "rightName": "Russian Twist",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-28 lb",
+      "rightValue": "-34 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+18 lb",
+      "rightValue": "+80 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+75 lb",
+      "rightValue": "+240 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+138 lb",
+      "rightValue": "+440 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+206 lb",
+      "rightValue": "+669 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-48 lb",
+      "rightValue": "-31 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-17 lb",
+      "rightValue": "+48 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+22 lb",
+      "rightValue": "+155 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+65 lb",
+      "rightValue": "+285 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+112 lb",
+      "rightValue": "+433 lb"
+    }
+  ]
+}

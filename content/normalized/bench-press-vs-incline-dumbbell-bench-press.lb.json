@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Press",
+  "rightName": "Incline Dumbbell Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "41 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "154 lb",
+      "rightValue": "62 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "217 lb",
+      "rightValue": "87 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "291 lb",
+      "rightValue": "117 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "372 lb",
+      "rightValue": "149 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 lb",
+      "rightValue": "15 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "111 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "164 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "223 lb",
+      "rightValue": "89 lb"
+    }
+  ]
+}

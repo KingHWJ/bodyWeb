@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Log Press",
+  "rightName": "Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "97 lb",
+      "rightValue": "173 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "149 lb",
+      "rightValue": "246 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "215 lb",
+      "rightValue": "336 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "293 lb",
+      "rightValue": "440 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "378 lb",
+      "rightValue": "552 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "44 lb",
+      "rightValue": "132 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "74 lb",
+      "rightValue": "193 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "112 lb",
+      "rightValue": "265 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "156 lb",
+      "rightValue": "345 lb"
+    }
+  ]
+}

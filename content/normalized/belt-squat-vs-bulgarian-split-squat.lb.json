@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Belt Squat",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "115 lb",
+      "rightValue": "32 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "226 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "381 lb",
+      "rightValue": "135 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "577 lb",
+      "rightValue": "216 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "803 lb",
+      "rightValue": "310 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "47 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "79 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "118 lb",
+      "rightValue": "117 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "164 lb",
+      "rightValue": "166 lb"
+    }
+  ]
+}

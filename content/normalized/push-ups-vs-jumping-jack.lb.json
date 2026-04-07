@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Jumping Jack",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-4 lb",
+      "rightValue": "-126 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+95 lb",
+      "rightValue": "+84 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+223 lb",
+      "rightValue": "+492 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+377 lb",
+      "rightValue": "+1091 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+547 lb",
+      "rightValue": "+1841 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-33 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+16 lb",
+      "rightValue": "+64 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+84 lb",
+      "rightValue": "+199 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+164 lb",
+      "rightValue": "+368 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+251 lb",
+      "rightValue": "+562 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Viking Press",
+  "rightName": "Front Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "72 lb",
+      "rightValue": "120 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "142 lb",
+      "rightValue": "170 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "240 lb",
+      "rightValue": "232 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "364 lb",
+      "rightValue": "303 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "506 lb",
+      "rightValue": "379 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "27 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "47 lb",
+      "rightValue": "98 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "74 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "108 lb",
+      "rightValue": "183 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "145 lb",
+      "rightValue": "232 lb"
+    }
+  ]
+}

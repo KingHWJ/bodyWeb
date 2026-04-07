@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Good Morning",
+  "rightName": "Romanian Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "50 kg",
+      "rightValue": "84 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "134 kg",
+      "rightValue": "164 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "189 kg",
+      "rightValue": "211 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "29 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "45 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 kg",
+      "rightValue": "66 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 kg",
+      "rightValue": "91 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "94 kg",
+      "rightValue": "119 kg"
+    }
+  ]
+}

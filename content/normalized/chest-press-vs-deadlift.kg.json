@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Chest Press",
+  "rightName": "Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 kg",
+      "rightValue": "78 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "57 kg",
+      "rightValue": "112 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "90 kg",
+      "rightValue": "152 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "131 kg",
+      "rightValue": "200 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "177 kg",
+      "rightValue": "250 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "10 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "21 kg",
+      "rightValue": "60 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "38 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "59 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "84 kg",
+      "rightValue": "157 kg"
+    }
+  ]
+}

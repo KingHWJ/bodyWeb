@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bicycle Crunch",
+  "rightName": "Russian Twist",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-65 lb",
+      "rightValue": "-34 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+53 lb",
+      "rightValue": "+80 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+227 lb",
+      "rightValue": "+240 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+451 lb",
+      "rightValue": "+440 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+713 lb",
+      "rightValue": "+669 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-36 lb",
+      "rightValue": "-31 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+29 lb",
+      "rightValue": "+48 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+114 lb",
+      "rightValue": "+155 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+217 lb",
+      "rightValue": "+285 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+332 lb",
+      "rightValue": "+433 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hex Bar Deadlift",
+  "rightName": "Spider Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "200 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "276 lb",
+      "rightValue": "36 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "368 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "473 lb",
+      "rightValue": "122 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "586 lb",
+      "rightValue": "181 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "152 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "213 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "285 lb",
+      "rightValue": "81 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "364 lb",
+      "rightValue": "115 lb"
+    }
+  ]
+}

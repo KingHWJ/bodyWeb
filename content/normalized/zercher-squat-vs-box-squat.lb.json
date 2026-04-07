@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Zercher Squat",
+  "rightName": "Box Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "110 lb",
+      "rightValue": "152 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "173 lb",
+      "rightValue": "233 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "253 lb",
+      "rightValue": "337 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "349 lb",
+      "rightValue": "460 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "454 lb",
+      "rightValue": "595 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "53 lb",
+      "rightValue": "83 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "91 lb",
+      "rightValue": "130 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "141 lb",
+      "rightValue": "191 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "202 lb",
+      "rightValue": "264 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "271 lb",
+      "rightValue": "344 lb"
+    }
+  ]
+}

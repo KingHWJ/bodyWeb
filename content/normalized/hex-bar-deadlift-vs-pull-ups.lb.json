@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hex Bar Deadlift",
+  "rightName": "Pull Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "200 lb",
+      "rightValue": "-28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "276 lb",
+      "rightValue": "+18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "368 lb",
+      "rightValue": "+75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "473 lb",
+      "rightValue": "+138 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "586 lb",
+      "rightValue": "+206 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "-48 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "152 lb",
+      "rightValue": "-17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "213 lb",
+      "rightValue": "+22 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "285 lb",
+      "rightValue": "+65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "364 lb",
+      "rightValue": "+112 lb"
+    }
+  ]
+}

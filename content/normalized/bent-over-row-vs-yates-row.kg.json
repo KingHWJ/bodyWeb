@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bent Over Row",
+  "rightName": "Yates Row",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 kg",
+      "rightValue": "73 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "85 kg",
+      "rightValue": "102 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 kg",
+      "rightValue": "135 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "172 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "31 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "41 kg",
+      "rightValue": "46 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "59 kg",
+      "rightValue": "63 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 kg",
+      "rightValue": "83 kg"
+    }
+  ]
+}

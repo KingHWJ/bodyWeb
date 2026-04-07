@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Snatch Deadlift",
+  "rightName": "Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "159 lb",
+      "rightValue": "173 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "230 lb",
+      "rightValue": "246 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "317 lb",
+      "rightValue": "336 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "420 lb",
+      "rightValue": "440 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "530 lb",
+      "rightValue": "552 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "63 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "96 lb",
+      "rightValue": "132 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "139 lb",
+      "rightValue": "193 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "189 lb",
+      "rightValue": "265 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "244 lb",
+      "rightValue": "345 lb"
+    }
+  ]
+}

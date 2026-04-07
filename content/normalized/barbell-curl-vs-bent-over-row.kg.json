@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Curl",
+  "rightName": "Bent Over Row",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 kg",
+      "rightValue": "41 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "30 kg",
+      "rightValue": "60 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "85 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "68 kg",
+      "rightValue": "115 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "91 kg",
+      "rightValue": "147 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "14 kg",
+      "rightValue": "26 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "25 kg",
+      "rightValue": "41 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "39 kg",
+      "rightValue": "59 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "55 kg",
+      "rightValue": "79 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Shoulder Press",
+  "rightName": "Viking Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "46 kg",
+      "rightValue": "64 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "70 kg",
+      "rightValue": "109 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "100 kg",
+      "rightValue": "165 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "132 kg",
+      "rightValue": "230 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "31 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "49 kg",
+      "rightValue": "49 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "70 kg",
+      "rightValue": "66 kg"
+    }
+  ]
+}

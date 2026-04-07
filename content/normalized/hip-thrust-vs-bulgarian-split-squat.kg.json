@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hip Thrust",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "76 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "129 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "196 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "273 kg",
+      "rightValue": "141 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "30 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "56 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "93 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "139 kg",
+      "rightValue": "53 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "191 kg",
+      "rightValue": "75 kg"
+    }
+  ]
+}

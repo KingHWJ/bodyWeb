@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Zercher Squat",
+  "rightName": "Front Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "110 lb",
+      "rightValue": "120 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "173 lb",
+      "rightValue": "170 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "253 lb",
+      "rightValue": "232 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "349 lb",
+      "rightValue": "303 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "454 lb",
+      "rightValue": "379 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "53 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "91 lb",
+      "rightValue": "98 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "141 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "202 lb",
+      "rightValue": "183 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "271 lb",
+      "rightValue": "232 lb"
+    }
+  ]
+}

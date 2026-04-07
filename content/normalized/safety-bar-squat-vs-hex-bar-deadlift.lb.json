@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Safety Bar Squat",
+  "rightName": "Hex Bar Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "160 lb",
+      "rightValue": "200 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "238 lb",
+      "rightValue": "276 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "336 lb",
+      "rightValue": "368 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "451 lb",
+      "rightValue": "473 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "577 lb",
+      "rightValue": "586 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "133 lb",
+      "rightValue": "152 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "197 lb",
+      "rightValue": "213 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "273 lb",
+      "rightValue": "285 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "357 lb",
+      "rightValue": "364 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Shoulder Press",
+  "rightName": "Military Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "29 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "47 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "71 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "100 lb",
+      "rightValue": "189 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "132 lb",
+      "rightValue": "241 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "22 lb",
+      "rightValue": "50 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "50 lb",
+      "rightValue": "106 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "68 lb",
+      "rightValue": "140 lb"
+    }
+  ]
+}

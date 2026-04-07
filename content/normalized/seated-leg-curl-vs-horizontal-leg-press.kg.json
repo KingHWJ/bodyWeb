@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Leg Curl",
+  "rightName": "Horizontal Leg Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "29 kg",
+      "rightValue": "71 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "50 kg",
+      "rightValue": "123 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "79 kg",
+      "rightValue": "193 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "114 kg",
+      "rightValue": "278 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "154 kg",
+      "rightValue": "375 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "16 kg",
+      "rightValue": "37 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "29 kg",
+      "rightValue": "71 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "117 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "70 kg",
+      "rightValue": "175 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "96 kg",
+      "rightValue": "241 kg"
+    }
+  ]
+}

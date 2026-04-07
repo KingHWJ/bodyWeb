@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Jefferson Squat",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "111 lb",
+      "rightValue": "32 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "171 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "249 lb",
+      "rightValue": "135 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "341 lb",
+      "rightValue": "216 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "443 lb",
+      "rightValue": "310 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "56 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "94 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "145 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "207 lb",
+      "rightValue": "117 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "276 lb",
+      "rightValue": "166 lb"
+    }
+  ]
+}

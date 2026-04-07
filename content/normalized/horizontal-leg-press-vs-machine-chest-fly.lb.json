@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Horizontal Leg Press",
+  "rightName": "Machine Chest Fly",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "156 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "271 lb",
+      "rightValue": "125 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "425 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "614 lb",
+      "rightValue": "274 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "826 lb",
+      "rightValue": "365 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "82 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "156 lb",
+      "rightValue": "51 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "258 lb",
+      "rightValue": "89 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "386 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "532 lb",
+      "rightValue": "192 lb"
+    }
+  ]
+}

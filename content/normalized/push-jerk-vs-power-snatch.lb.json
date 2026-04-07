@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Jerk",
+  "rightName": "Power Snatch",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "94 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "139 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "197 lb",
+      "rightValue": "159 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "265 lb",
+      "rightValue": "218 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "339 lb",
+      "rightValue": "282 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "62 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "86 lb",
+      "rightValue": "64 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "115 lb",
+      "rightValue": "91 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "149 lb",
+      "rightValue": "123 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "185 lb",
+      "rightValue": "157 lb"
+    }
+  ]
+}

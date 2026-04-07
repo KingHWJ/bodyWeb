@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Romanian Deadlift",
+  "rightName": "Dumbbell Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "121 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "185 lb",
+      "rightValue": "59 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "266 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "361 lb",
+      "rightValue": "129 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "466 lb",
+      "rightValue": "171 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "63 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "26 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "146 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "201 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "262 lb",
+      "rightValue": "101 lb"
+    }
+  ]
+}

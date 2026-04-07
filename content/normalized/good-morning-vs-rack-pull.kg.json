@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Good Morning",
+  "rightName": "Rack Pull",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 kg",
+      "rightValue": "93 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "50 kg",
+      "rightValue": "136 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 kg",
+      "rightValue": "190 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "134 kg",
+      "rightValue": "254 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "189 kg",
+      "rightValue": "323 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "52 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "80 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 kg",
+      "rightValue": "116 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 kg",
+      "rightValue": "158 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "94 kg",
+      "rightValue": "205 kg"
+    }
+  ]
+}

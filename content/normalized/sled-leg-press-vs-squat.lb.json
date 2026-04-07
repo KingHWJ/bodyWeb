@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sled Leg Press",
+  "rightName": "Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "191 lb",
+      "rightValue": "141 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "323 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "499 lb",
+      "rightValue": "287 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "713 lb",
+      "rightValue": "381 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "953 lb",
+      "rightValue": "483 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "91 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "181 lb",
+      "rightValue": "107 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "310 lb",
+      "rightValue": "161 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "472 lb",
+      "rightValue": "227 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "659 lb",
+      "rightValue": "300 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Chest Supported Dumbbell Row",
+  "rightName": "Bent Over Dumbbell Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "45 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "82 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "129 lb",
+      "rightValue": "113 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "185 lb",
+      "rightValue": "155 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "68 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "94 lb",
+      "rightValue": "96 lb"
+    }
+  ]
+}

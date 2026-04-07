@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pike Push Up",
+  "rightName": "Handstand Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-80 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+26 lb",
+      "rightValue": "-19 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+104 lb",
+      "rightValue": "+63 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+196 lb",
+      "rightValue": "+163 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+296 lb",
+      "rightValue": "+275 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-44 lb",
+      "rightValue": "-55 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+1 lb",
+      "rightValue": "-14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+58 lb",
+      "rightValue": "+37 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+125 lb",
+      "rightValue": "+98 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+198 lb",
+      "rightValue": "+165 lb"
+    }
+  ]
+}

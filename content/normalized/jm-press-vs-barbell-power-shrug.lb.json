@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Jm Press",
+  "rightName": "Barbell Power Shrug",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "53 lb",
+      "rightValue": "108 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "92 lb",
+      "rightValue": "211 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "146 lb",
+      "rightValue": "354 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "212 lb",
+      "rightValue": "534 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "286 lb",
+      "rightValue": "740 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "16 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "35 lb",
+      "rightValue": "79 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "62 lb",
+      "rightValue": "146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "97 lb",
+      "rightValue": "233 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "138 lb",
+      "rightValue": "335 lb"
+    }
+  ]
+}

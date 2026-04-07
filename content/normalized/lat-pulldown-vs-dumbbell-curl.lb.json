@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lat Pulldown",
+  "rightName": "Dumbbell Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "85 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "127 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "180 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "243 lb",
+      "rightValue": "80 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "312 lb",
+      "rightValue": "113 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "43 lb",
+      "rightValue": "8 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "68 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "140 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "184 lb",
+      "rightValue": "67 lb"
+    }
+  ]
+}

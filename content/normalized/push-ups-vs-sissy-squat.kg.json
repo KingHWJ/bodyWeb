@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Sissy Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-2 kg",
+      "rightValue": "-50 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+43 kg",
+      "rightValue": "-3 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+101 kg",
+      "rightValue": "+69 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+171 kg",
+      "rightValue": "+165 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+248 kg",
+      "rightValue": "+279 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 kg",
+      "rightValue": "-22 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+8 kg",
+      "rightValue": "-5 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+38 kg",
+      "rightValue": "+15 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+74 kg",
+      "rightValue": "+39 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+114 kg",
+      "rightValue": "+65 kg"
+    }
+  ]
+}

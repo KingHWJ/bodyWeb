@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Front Squat",
+  "rightName": "Sumo Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "120 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "170 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "232 lb",
+      "rightValue": "363 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "303 lb",
+      "rightValue": "471 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "379 lb",
+      "rightValue": "587 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "67 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "98 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "137 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "183 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "232 lb",
+      "rightValue": "339 lb"
+    }
+  ]
+}

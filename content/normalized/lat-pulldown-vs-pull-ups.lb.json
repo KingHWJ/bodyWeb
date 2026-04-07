@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lat Pulldown",
+  "rightName": "Pull Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "85 lb",
+      "rightValue": "-28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "127 lb",
+      "rightValue": "+18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "180 lb",
+      "rightValue": "+75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "243 lb",
+      "rightValue": "+138 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "312 lb",
+      "rightValue": "+206 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "43 lb",
+      "rightValue": "-48 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "68 lb",
+      "rightValue": "-17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "+22 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "140 lb",
+      "rightValue": "+65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "184 lb",
+      "rightValue": "+112 lb"
+    }
+  ]
+}

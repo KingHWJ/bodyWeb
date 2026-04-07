@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Cable Upright Row",
+  "rightName": "Face Pull",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "46 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "90 lb",
+      "rightValue": "57 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "152 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "231 lb",
+      "rightValue": "157 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "320 lb",
+      "rightValue": "223 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 lb",
+      "rightValue": "22 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "40 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "70 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "109 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "155 lb",
+      "rightValue": "154 lb"
+    }
+  ]
+}

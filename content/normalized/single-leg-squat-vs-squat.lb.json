@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Single Leg Squat",
+  "rightName": "Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-75 lb",
+      "rightValue": "141 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-12 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+72 lb",
+      "rightValue": "287 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+175 lb",
+      "rightValue": "381 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+290 lb",
+      "rightValue": "483 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-51 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-8 lb",
+      "rightValue": "107 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+48 lb",
+      "rightValue": "161 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+113 lb",
+      "rightValue": "227 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+184 lb",
+      "rightValue": "300 lb"
+    }
+  ]
+}

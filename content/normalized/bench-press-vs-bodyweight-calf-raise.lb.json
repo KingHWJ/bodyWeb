@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Press",
+  "rightName": "Bodyweight Calf Raise",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "-74 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "154 lb",
+      "rightValue": "+98 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "217 lb",
+      "rightValue": "+371 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "291 lb",
+      "rightValue": "+740 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "372 lb",
+      "rightValue": "+1180 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 lb",
+      "rightValue": "-40 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 lb",
+      "rightValue": "+46 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "111 lb",
+      "rightValue": "+165 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "164 lb",
+      "rightValue": "+313 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "223 lb",
+      "rightValue": "+482 lb"
+    }
+  ]
+}

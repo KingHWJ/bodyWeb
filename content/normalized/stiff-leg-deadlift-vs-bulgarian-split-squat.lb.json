@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Stiff Leg Deadlift",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "119 lb",
+      "rightValue": "32 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "186 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "273 lb",
+      "rightValue": "135 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "376 lb",
+      "rightValue": "216 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "491 lb",
+      "rightValue": "310 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "61 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "148 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "207 lb",
+      "rightValue": "117 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "272 lb",
+      "rightValue": "166 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Curl",
+  "rightName": "Dumbbell Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "29 lb",
+      "rightValue": "57 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 lb",
+      "rightValue": "96 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "80 lb",
+      "rightValue": "145 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "113 lb",
+      "rightValue": "201 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "30 lb",
+      "rightValue": "55 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "47 lb",
+      "rightValue": "86 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "67 lb",
+      "rightValue": "121 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Chin Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-4 lb",
+      "rightValue": "-20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+95 lb",
+      "rightValue": "+23 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+223 lb",
+      "rightValue": "+75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+377 lb",
+      "rightValue": "+132 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+547 lb",
+      "rightValue": "+193 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+16 lb",
+      "rightValue": "-10 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+84 lb",
+      "rightValue": "+21 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+164 lb",
+      "rightValue": "+57 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+251 lb",
+      "rightValue": "+94 lb"
+    }
+  ]
+}

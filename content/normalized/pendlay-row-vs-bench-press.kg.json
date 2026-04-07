@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pendlay Row",
+  "rightName": "Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 kg",
+      "rightValue": "70 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "91 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "118 kg",
+      "rightValue": "132 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "148 kg",
+      "rightValue": "169 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "25 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "37 kg",
+      "rightValue": "31 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "69 kg",
+      "rightValue": "74 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "88 kg",
+      "rightValue": "101 kg"
+    }
+  ]
+}

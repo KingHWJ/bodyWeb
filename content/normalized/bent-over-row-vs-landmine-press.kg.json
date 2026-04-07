@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bent Over Row",
+  "rightName": "Landmine Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 kg",
+      "rightValue": "35 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "85 kg",
+      "rightValue": "58 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "120 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "4 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "41 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "59 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 kg",
+      "rightValue": "29 kg"
+    }
+  ]
+}

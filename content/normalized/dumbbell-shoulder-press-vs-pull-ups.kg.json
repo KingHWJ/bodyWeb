@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Shoulder Press",
+  "rightName": "Pull Ups",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "-13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "21 kg",
+      "rightValue": "+8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "32 kg",
+      "rightValue": "+34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "45 kg",
+      "rightValue": "+63 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "60 kg",
+      "rightValue": "+93 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "-22 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "10 kg",
+      "rightValue": "-8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "16 kg",
+      "rightValue": "+10 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "23 kg",
+      "rightValue": "+30 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "31 kg",
+      "rightValue": "+51 kg"
+    }
+  ]
+}

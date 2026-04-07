@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Shoulder Press",
+  "rightName": "Dumbbell Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "29 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "47 lb",
+      "rightValue": "60 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "71 lb",
+      "rightValue": "94 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "100 lb",
+      "rightValue": "136 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "132 lb",
+      "rightValue": "182 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "22 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "50 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "68 lb",
+      "rightValue": "92 lb"
+    }
+  ]
+}

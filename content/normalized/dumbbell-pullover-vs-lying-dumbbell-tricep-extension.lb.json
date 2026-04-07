@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Pullover",
+  "rightName": "Lying Dumbbell Tricep Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "27 lb",
+      "rightValue": "10 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "48 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "77 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "113 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "154 lb",
+      "rightValue": "105 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "5 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "93 lb",
+      "rightValue": "71 lb"
+    }
+  ]
+}

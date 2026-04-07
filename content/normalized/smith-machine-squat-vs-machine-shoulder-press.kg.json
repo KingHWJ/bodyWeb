@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Smith Machine Squat",
+  "rightName": "Machine Shoulder Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "48 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "79 kg",
+      "rightValue": "46 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "120 kg",
+      "rightValue": "77 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "170 kg",
+      "rightValue": "115 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "225 kg",
+      "rightValue": "159 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 kg",
+      "rightValue": "8 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "41 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "66 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "98 kg",
+      "rightValue": "56 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "134 kg",
+      "rightValue": "80 kg"
+    }
+  ]
+}

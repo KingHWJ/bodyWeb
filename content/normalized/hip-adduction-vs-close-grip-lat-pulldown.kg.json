@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hip Adduction",
+  "rightName": "Close Grip Lat Pulldown",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 kg",
+      "rightValue": "46 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "64 kg",
+      "rightValue": "66 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "109 kg",
+      "rightValue": "90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "167 kg",
+      "rightValue": "118 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "233 kg",
+      "rightValue": "149 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "43 kg",
+      "rightValue": "35 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "71 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "107 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "87 kg"
+    }
+  ]
+}

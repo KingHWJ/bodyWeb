@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Cable Row",
+  "rightName": "Cable Fly",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "89 lb",
+      "rightValue": "11 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "133 lb",
+      "rightValue": "39 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "189 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "254 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "325 lb",
+      "rightValue": "227 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 lb",
+      "rightValue": "21 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "104 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "145 lb",
+      "rightValue": "78 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "190 lb",
+      "rightValue": "118 lb"
+    }
+  ]
+}

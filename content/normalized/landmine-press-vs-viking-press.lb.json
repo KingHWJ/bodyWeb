@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Landmine Press",
+  "rightName": "Viking Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "40 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "76 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "127 lb",
+      "rightValue": "240 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "191 lb",
+      "rightValue": "364 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "264 lb",
+      "rightValue": "506 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "30 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "45 lb",
+      "rightValue": "108 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "63 lb",
+      "rightValue": "145 lb"
+    }
+  ]
+}

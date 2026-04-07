@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Handstand Push Ups",
+  "rightName": "Decline Push Up",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-80 lb",
+      "rightValue": "-30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-19 lb",
+      "rightValue": "+47 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+63 lb",
+      "rightValue": "+147 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+163 lb",
+      "rightValue": "+265 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+275 lb",
+      "rightValue": "+397 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-55 lb",
+      "rightValue": "-69 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-14 lb",
+      "rightValue": "-11 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+37 lb",
+      "rightValue": "+71 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+98 lb",
+      "rightValue": "+172 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+165 lb",
+      "rightValue": "+288 lb"
+    }
+  ]
+}

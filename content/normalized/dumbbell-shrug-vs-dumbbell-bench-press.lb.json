@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Shrug",
+  "rightName": "Dumbbell Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "61 lb",
+      "rightValue": "59 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "151 lb",
+      "rightValue": "129 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "209 lb",
+      "rightValue": "171 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 lb",
+      "rightValue": "26 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "59 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "94 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "137 lb",
+      "rightValue": "101 lb"
+    }
+  ]
+}

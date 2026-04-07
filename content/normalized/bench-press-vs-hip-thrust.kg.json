@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Press",
+  "rightName": "Hip Thrust",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 kg",
+      "rightValue": "76 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "98 kg",
+      "rightValue": "129 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "132 kg",
+      "rightValue": "196 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "169 kg",
+      "rightValue": "273 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 kg",
+      "rightValue": "56 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "51 kg",
+      "rightValue": "93 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "74 kg",
+      "rightValue": "139 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "101 kg",
+      "rightValue": "191 kg"
+    }
+  ]
+}

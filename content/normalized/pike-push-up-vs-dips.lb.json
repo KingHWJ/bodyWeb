@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pike Push Up",
+  "rightName": "Dips",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-17 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+26 lb",
+      "rightValue": "+41 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+104 lb",
+      "rightValue": "+110 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+196 lb",
+      "rightValue": "+190 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+296 lb",
+      "rightValue": "+276 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-44 lb",
+      "rightValue": "-45 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+1 lb",
+      "rightValue": "-6 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+58 lb",
+      "rightValue": "+43 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+125 lb",
+      "rightValue": "+98 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+198 lb",
+      "rightValue": "+159 lb"
+    }
+  ]
+}

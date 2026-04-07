@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "One Arm Push Ups",
+  "rightName": "One Arm Pull Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-81 lb",
+      "rightValue": "-48 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-23 lb",
+      "rightValue": "-18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+55 lb",
+      "rightValue": "+17 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+150 lb",
+      "rightValue": "+56 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+257 lb",
+      "rightValue": "+97 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-107 lb",
+      "rightValue": "-88 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-52 lb",
+      "rightValue": "-38 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+36 lb",
+      "rightValue": "+33 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+154 lb",
+      "rightValue": "+124 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+296 lb",
+      "rightValue": "+229 lb"
+    }
+  ]
+}

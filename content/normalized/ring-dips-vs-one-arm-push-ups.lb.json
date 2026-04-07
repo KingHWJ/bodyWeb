@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Ring Dips",
+  "rightName": "One Arm Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-26 lb",
+      "rightValue": "-81 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+19 lb",
+      "rightValue": "-23 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+72 lb",
+      "rightValue": "+55 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+132 lb",
+      "rightValue": "+150 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+196 lb",
+      "rightValue": "+257 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-41 lb",
+      "rightValue": "-107 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-9 lb",
+      "rightValue": "-52 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+30 lb",
+      "rightValue": "+36 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+75 lb",
+      "rightValue": "+154 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+122 lb",
+      "rightValue": "+296 lb"
+    }
+  ]
+}

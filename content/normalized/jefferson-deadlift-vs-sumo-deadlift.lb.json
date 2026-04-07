@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Jefferson Deadlift",
+  "rightName": "Sumo Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "143 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "230 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "342 lb",
+      "rightValue": "363 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "476 lb",
+      "rightValue": "471 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "625 lb",
+      "rightValue": "587 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "56 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "94 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "145 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "207 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "276 lb",
+      "rightValue": "339 lb"
+    }
+  ]
+}

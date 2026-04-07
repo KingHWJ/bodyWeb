@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sissy Squat",
+  "rightName": "Nordic Hamstring Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-109 lb",
+      "rightValue": "-73 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-6 lb",
+      "rightValue": "-16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+153 lb",
+      "rightValue": "+58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+364 lb",
+      "rightValue": "+146 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+614 lb",
+      "rightValue": "+243 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-48 lb",
+      "rightValue": "-43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-11 lb",
+      "rightValue": "+6 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+34 lb",
+      "rightValue": "+69 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+86 lb",
+      "rightValue": "+143 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+142 lb",
+      "rightValue": "+224 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sled Leg Press",
+  "rightName": "Vertical Leg Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "86 kg",
+      "rightValue": "81 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 kg",
+      "rightValue": "140 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "226 kg",
+      "rightValue": "220 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "324 kg",
+      "rightValue": "317 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "432 kg",
+      "rightValue": "427 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "82 kg",
+      "rightValue": "86 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "141 kg",
+      "rightValue": "143 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "214 kg",
+      "rightValue": "216 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "299 kg",
+      "rightValue": "298 kg"
+    }
+  ]
+}

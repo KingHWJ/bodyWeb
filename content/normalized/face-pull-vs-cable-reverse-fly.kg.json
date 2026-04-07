@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Face Pull",
+  "rightName": "Cable Reverse Fly",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 kg",
+      "rightValue": "4 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 kg",
+      "rightValue": "28 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 kg",
+      "rightValue": "49 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "101 kg",
+      "rightValue": "75 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "10 kg",
+      "rightValue": "3 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "19 kg",
+      "rightValue": "7 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "33 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "50 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "70 kg",
+      "rightValue": "34 kg"
+    }
+  ]
+}

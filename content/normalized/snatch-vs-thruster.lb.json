@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Snatch",
+  "rightName": "Thruster",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "77 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "117 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "168 lb",
+      "rightValue": "169 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "240 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "293 lb",
+      "rightValue": "321 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "95 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "129 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "165 lb",
+      "rightValue": "178 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Shrug",
+  "rightName": "Dumbbell Fly",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "61 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "151 lb",
+      "rightValue": "81 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "209 lb",
+      "rightValue": "115 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 lb",
+      "rightValue": "15 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "59 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "94 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "137 lb",
+      "rightValue": "60 lb"
+    }
+  ]
+}

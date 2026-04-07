@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat Jump",
+  "rightName": "Pistol Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-83 lb",
+      "rightValue": "-51 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+24 lb",
+      "rightValue": "+2 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+184 lb",
+      "rightValue": "+68 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+394 lb",
+      "rightValue": "+145 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+640 lb",
+      "rightValue": "+230 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-55 lb",
+      "rightValue": "-39 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+30 lb",
+      "rightValue": "-3 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+150 lb",
+      "rightValue": "+42 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+302 lb",
+      "rightValue": "+93 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+477 lb",
+      "rightValue": "+147 lb"
+    }
+  ]
+}

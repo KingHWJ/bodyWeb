@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Lunge",
+  "rightName": "Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "30 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "52 kg",
+      "rightValue": "70 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "82 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "119 kg",
+      "rightValue": "132 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "160 kg",
+      "rightValue": "169 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "32 kg",
+      "rightValue": "31 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "50 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 kg",
+      "rightValue": "74 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "96 kg",
+      "rightValue": "101 kg"
+    }
+  ]
+}

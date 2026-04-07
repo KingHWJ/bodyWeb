@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat",
+  "rightName": "Split Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "141 lb",
+      "rightValue": "53 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "206 lb",
+      "rightValue": "108 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "287 lb",
+      "rightValue": "187 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "381 lb",
+      "rightValue": "288 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "483 lb",
+      "rightValue": "404 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "65 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "107 lb",
+      "rightValue": "59 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "161 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "158 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "300 lb",
+      "rightValue": "222 lb"
+    }
+  ]
+}

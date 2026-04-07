@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Machine Row",
+  "rightName": "Seated Dip Machine",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "79 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "143 lb",
+      "rightValue": "144 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "222 lb",
+      "rightValue": "232 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "318 lb",
+      "rightValue": "341 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "426 lb",
+      "rightValue": "465 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "37 lb",
+      "rightValue": "48 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "71 lb",
+      "rightValue": "80 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "117 lb",
+      "rightValue": "123 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "175 lb",
+      "rightValue": "176 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "241 lb",
+      "rightValue": "234 lb"
+    }
+  ]
+}

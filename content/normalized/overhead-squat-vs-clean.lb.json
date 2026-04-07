@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Overhead Squat",
+  "rightName": "Clean",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "60 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "110 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "179 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "264 lb",
+      "rightValue": "266 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "360 lb",
+      "rightValue": "330 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 lb",
+      "rightValue": "94 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "142 lb",
+      "rightValue": "159 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "187 lb",
+      "rightValue": "196 lb"
+    }
+  ]
+}

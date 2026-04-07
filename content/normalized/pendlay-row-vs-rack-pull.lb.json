@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pendlay Row",
+  "rightName": "Rack Pull",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "104 lb",
+      "rightValue": "204 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 lb",
+      "rightValue": "300 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "200 lb",
+      "rightValue": "420 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "260 lb",
+      "rightValue": "560 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "326 lb",
+      "rightValue": "712 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "55 lb",
+      "rightValue": "115 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "81 lb",
+      "rightValue": "176 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "114 lb",
+      "rightValue": "255 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "152 lb",
+      "rightValue": "349 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "194 lb",
+      "rightValue": "452 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Shoulder Press",
+  "rightName": "Z Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "66 lb",
+      "rightValue": "58 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "89 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "142 lb",
+      "rightValue": "127 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "192 lb",
+      "rightValue": "173 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "248 lb",
+      "rightValue": "223 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "48 lb",
+      "rightValue": "36 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "75 lb",
+      "rightValue": "62 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "107 lb",
+      "rightValue": "95 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "143 lb",
+      "rightValue": "133 lb"
+    }
+  ]
+}

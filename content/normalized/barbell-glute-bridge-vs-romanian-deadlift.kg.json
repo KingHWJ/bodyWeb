@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Glute Bridge",
+  "rightName": "Romanian Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 kg",
+      "rightValue": "84 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "118 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "182 kg",
+      "rightValue": "164 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "257 kg",
+      "rightValue": "211 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "31 kg",
+      "rightValue": "29 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "56 kg",
+      "rightValue": "45 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "92 kg",
+      "rightValue": "66 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "136 kg",
+      "rightValue": "91 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "186 kg",
+      "rightValue": "119 kg"
+    }
+  ]
+}

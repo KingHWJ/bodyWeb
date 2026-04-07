@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Back Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-4 lb",
+      "rightValue": "-63 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+95 lb",
+      "rightValue": "+30 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+223 lb",
+      "rightValue": "+156 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+377 lb",
+      "rightValue": "+313 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+547 lb",
+      "rightValue": "+492 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+16 lb",
+      "rightValue": "+22 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+84 lb",
+      "rightValue": "+94 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+164 lb",
+      "rightValue": "+180 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+251 lb",
+      "rightValue": "+273 lb"
+    }
+  ]
+}

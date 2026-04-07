@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Yates Row",
+  "rightName": "Pendlay Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "111 lb",
+      "rightValue": "104 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "161 lb",
+      "rightValue": "147 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "225 lb",
+      "rightValue": "200 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "299 lb",
+      "rightValue": "260 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "379 lb",
+      "rightValue": "326 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 lb",
+      "rightValue": "55 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 lb",
+      "rightValue": "81 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "114 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "140 lb",
+      "rightValue": "152 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "182 lb",
+      "rightValue": "194 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Split Jerk",
+  "rightName": "Push Jerk",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "109 lb",
+      "rightValue": "94 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "152 lb",
+      "rightValue": "139 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "207 lb",
+      "rightValue": "197 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "269 lb",
+      "rightValue": "265 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "336 lb",
+      "rightValue": "339 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "70 lb",
+      "rightValue": "62 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "95 lb",
+      "rightValue": "86 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "127 lb",
+      "rightValue": "115 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "162 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "201 lb",
+      "rightValue": "185 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Curl",
+  "rightName": "Push Ups",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "-2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "13 kg",
+      "rightValue": "+43 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "23 kg",
+      "rightValue": "+101 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "36 kg",
+      "rightValue": "+171 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "51 kg",
+      "rightValue": "+248 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "3 kg",
+      "rightValue": "-17 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "8 kg",
+      "rightValue": "+8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "14 kg",
+      "rightValue": "+38 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "21 kg",
+      "rightValue": "+74 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "31 kg",
+      "rightValue": "+114 kg"
+    }
+  ]
+}

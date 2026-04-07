@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sumo Squat",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "23 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "54 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "100 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "160 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "230 kg",
+      "rightValue": "141 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "51 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "81 kg",
+      "rightValue": "53 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "117 kg",
+      "rightValue": "75 kg"
+    }
+  ]
+}

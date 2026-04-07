@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bicycle Crunch",
+  "rightName": "Reverse Crunches",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-65 lb",
+      "rightValue": "-22 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+53 lb",
+      "rightValue": "+64 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+227 lb",
+      "rightValue": "+174 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+451 lb",
+      "rightValue": "+307 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+713 lb",
+      "rightValue": "+453 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-36 lb",
+      "rightValue": "-41 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+29 lb",
+      "rightValue": "+20 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+114 lb",
+      "rightValue": "+100 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+217 lb",
+      "rightValue": "+195 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+332 lb",
+      "rightValue": "+302 lb"
+    }
+  ]
+}

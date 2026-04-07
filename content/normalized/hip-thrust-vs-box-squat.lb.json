@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hip Thrust",
+  "rightName": "Box Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "152 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "167 lb",
+      "rightValue": "233 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "284 lb",
+      "rightValue": "337 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "432 lb",
+      "rightValue": "460 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "603 lb",
+      "rightValue": "595 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "66 lb",
+      "rightValue": "83 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "124 lb",
+      "rightValue": "130 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "205 lb",
+      "rightValue": "191 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "306 lb",
+      "rightValue": "264 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "421 lb",
+      "rightValue": "344 lb"
+    }
+  ]
+}

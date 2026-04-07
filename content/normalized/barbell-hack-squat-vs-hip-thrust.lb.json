@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Hack Squat",
+  "rightName": "Hip Thrust",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "110 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "183 lb",
+      "rightValue": "167 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "278 lb",
+      "rightValue": "284 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "393 lb",
+      "rightValue": "432 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "522 lb",
+      "rightValue": "603 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "42 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "105 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "148 lb",
+      "rightValue": "306 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "196 lb",
+      "rightValue": "421 lb"
+    }
+  ]
+}

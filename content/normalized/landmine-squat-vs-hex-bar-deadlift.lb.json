@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Landmine Squat",
+  "rightName": "Hex Bar Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "52 lb",
+      "rightValue": "200 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "115 lb",
+      "rightValue": "276 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "208 lb",
+      "rightValue": "368 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "327 lb",
+      "rightValue": "473 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "466 lb",
+      "rightValue": "586 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "40 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 lb",
+      "rightValue": "152 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "111 lb",
+      "rightValue": "213 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "161 lb",
+      "rightValue": "285 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "217 lb",
+      "rightValue": "364 lb"
+    }
+  ]
+}

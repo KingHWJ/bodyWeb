@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Curl",
+  "rightName": "Lying Dumbbell Tricep Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "10 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "29 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "80 lb",
+      "rightValue": "73 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "113 lb",
+      "rightValue": "105 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "5 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "30 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "47 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "67 lb",
+      "rightValue": "71 lb"
+    }
+  ]
+}

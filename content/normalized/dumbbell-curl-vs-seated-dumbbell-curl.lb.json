@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Curl",
+  "rightName": "Seated Dumbbell Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "29 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "80 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "113 lb",
+      "rightValue": "98 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "9 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "30 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "47 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "67 lb",
+      "rightValue": "59 lb"
+    }
+  ]
+}

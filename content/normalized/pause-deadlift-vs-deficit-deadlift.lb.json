@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pause Deadlift",
+  "rightName": "Deficit Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "205 lb",
+      "rightValue": "199 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "277 lb",
+      "rightValue": "274 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "363 lb",
+      "rightValue": "366 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "461 lb",
+      "rightValue": "472 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "566 lb",
+      "rightValue": "584 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "51 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "89 lb",
+      "rightValue": "116 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "141 lb",
+      "rightValue": "169 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "204 lb",
+      "rightValue": "233 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "275 lb",
+      "rightValue": "303 lb"
+    }
+  ]
+}

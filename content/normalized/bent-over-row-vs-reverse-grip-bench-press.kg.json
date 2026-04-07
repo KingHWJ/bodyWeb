@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bent Over Row",
+  "rightName": "Reverse Grip Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "85 kg",
+      "rightValue": "99 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 kg",
+      "rightValue": "146 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "199 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "41 kg",
+      "rightValue": "39 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "59 kg",
+      "rightValue": "57 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 kg",
+      "rightValue": "78 kg"
+    }
+  ]
+}

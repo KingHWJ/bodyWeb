@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sled Leg Press",
+  "rightName": "Machine Chest Fly",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "191 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "323 lb",
+      "rightValue": "125 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "499 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "713 lb",
+      "rightValue": "274 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "953 lb",
+      "rightValue": "365 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "91 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "181 lb",
+      "rightValue": "51 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "310 lb",
+      "rightValue": "89 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "472 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "659 lb",
+      "rightValue": "192 lb"
+    }
+  ]
+}

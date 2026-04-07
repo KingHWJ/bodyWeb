@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Curl",
+  "rightName": "Strict Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "66 lb",
+      "rightValue": "78 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "103 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "149 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "201 lb",
+      "rightValue": "191 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "54 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "85 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "120 lb",
+      "rightValue": "118 lb"
+    }
+  ]
+}

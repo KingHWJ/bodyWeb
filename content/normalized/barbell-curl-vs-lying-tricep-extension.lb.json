@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Curl",
+  "rightName": "Lying Tricep Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "66 lb",
+      "rightValue": "60 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "103 lb",
+      "rightValue": "96 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "149 lb",
+      "rightValue": "140 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "201 lb",
+      "rightValue": "189 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "54 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "85 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "120 lb",
+      "rightValue": "107 lb"
+    }
+  ]
+}

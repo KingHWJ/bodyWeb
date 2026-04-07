@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Cable Row",
+  "rightName": "Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "89 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "133 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "189 lb",
+      "rightValue": "217 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "254 lb",
+      "rightValue": "291 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "325 lb",
+      "rightValue": "372 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 lb",
+      "rightValue": "38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "104 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "145 lb",
+      "rightValue": "164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "190 lb",
+      "rightValue": "223 lb"
+    }
+  ]
+}

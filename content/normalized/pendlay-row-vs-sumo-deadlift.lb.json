@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pendlay Row",
+  "rightName": "Sumo Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "104 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "200 lb",
+      "rightValue": "363 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "260 lb",
+      "rightValue": "471 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "326 lb",
+      "rightValue": "587 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "55 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "81 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "114 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "152 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "194 lb",
+      "rightValue": "339 lb"
+    }
+  ]
+}

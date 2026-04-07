@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Incline Dumbbell Bench Press",
+  "rightName": "Dumbbell Pullover",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 kg",
+      "rightValue": "22 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "39 kg",
+      "rightValue": "35 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "53 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "68 kg",
+      "rightValue": "70 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "20 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "30 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "40 kg",
+      "rightValue": "42 kg"
+    }
+  ]
+}

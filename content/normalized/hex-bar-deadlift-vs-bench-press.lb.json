@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hex Bar Deadlift",
+  "rightName": "Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "200 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "276 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "368 lb",
+      "rightValue": "217 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "473 lb",
+      "rightValue": "291 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "586 lb",
+      "rightValue": "372 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "152 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "213 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "285 lb",
+      "rightValue": "164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "364 lb",
+      "rightValue": "223 lb"
+    }
+  ]
+}

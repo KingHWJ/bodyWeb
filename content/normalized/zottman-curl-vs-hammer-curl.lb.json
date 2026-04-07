@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Zottman Curl",
+  "rightName": "Hammer Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "21 lb",
+      "rightValue": "32 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "45 lb",
+      "rightValue": "51 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "79 lb",
+      "rightValue": "75 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "120 lb",
+      "rightValue": "102 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "10 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "29 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "45 lb",
+      "rightValue": "42 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "63 lb",
+      "rightValue": "57 lb"
+    }
+  ]
+}

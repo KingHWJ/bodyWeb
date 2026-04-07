@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deadlift",
+  "rightName": "Barbell Shrug",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "173 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "246 lb",
+      "rightValue": "181 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "336 lb",
+      "rightValue": "288 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "440 lb",
+      "rightValue": "420 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "552 lb",
+      "rightValue": "570 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "132 lb",
+      "rightValue": "81 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "193 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "265 lb",
+      "rightValue": "235 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "345 lb",
+      "rightValue": "337 lb"
+    }
+  ]
+}

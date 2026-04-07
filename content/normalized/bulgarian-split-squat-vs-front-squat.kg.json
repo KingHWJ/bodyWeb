@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bulgarian Split Squat",
+  "rightName": "Front Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "33 kg",
+      "rightValue": "77 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "61 kg",
+      "rightValue": "105 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "98 kg",
+      "rightValue": "137 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "141 kg",
+      "rightValue": "172 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "19 kg",
+      "rightValue": "45 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 kg",
+      "rightValue": "62 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "53 kg",
+      "rightValue": "83 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "75 kg",
+      "rightValue": "105 kg"
+    }
+  ]
+}

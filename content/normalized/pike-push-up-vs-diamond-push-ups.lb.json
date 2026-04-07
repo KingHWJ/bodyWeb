@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pike Push Up",
+  "rightName": "Diamond Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-31 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+26 lb",
+      "rightValue": "+37 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+104 lb",
+      "rightValue": "+124 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+196 lb",
+      "rightValue": "+226 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+296 lb",
+      "rightValue": "+339 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-44 lb",
+      "rightValue": "-78 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+1 lb",
+      "rightValue": "-22 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+58 lb",
+      "rightValue": "+57 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+125 lb",
+      "rightValue": "+157 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+198 lb",
+      "rightValue": "+272 lb"
+    }
+  ]
+}

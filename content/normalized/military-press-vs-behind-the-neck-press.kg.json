@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Military Press",
+  "rightName": "Behind The Neck Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "31 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "46 kg",
+      "rightValue": "41 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "64 kg",
+      "rightValue": "65 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "86 kg",
+      "rightValue": "95 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "109 kg",
+      "rightValue": "128 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "23 kg",
+      "rightValue": "22 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "48 kg",
+      "rightValue": "48 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "64 kg",
+      "rightValue": "64 kg"
+    }
+  ]
+}

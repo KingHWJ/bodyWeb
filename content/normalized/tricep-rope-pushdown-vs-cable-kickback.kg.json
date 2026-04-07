@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Tricep Rope Pushdown",
+  "rightName": "Cable Kickback",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "4 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "98 kg",
+      "rightValue": "46 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 kg",
+      "rightValue": "3 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "15 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "26 kg",
+      "rightValue": "27 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "40 kg",
+      "rightValue": "48 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "56 kg",
+      "rightValue": "74 kg"
+    }
+  ]
+}

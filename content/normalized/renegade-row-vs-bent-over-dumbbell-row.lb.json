@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Renegade Row",
+  "rightName": "Bent Over Dumbbell Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "61 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "113 lb",
+      "rightValue": "113 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "175 lb",
+      "rightValue": "155 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "11 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "20 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "32 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "48 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "65 lb",
+      "rightValue": "96 lb"
+    }
+  ]
+}

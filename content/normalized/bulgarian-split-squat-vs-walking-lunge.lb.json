@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bulgarian Split Squat",
+  "rightName": "Walking Lunge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 lb",
+      "rightValue": "6 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "73 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "135 lb",
+      "rightValue": "139 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "216 lb",
+      "rightValue": "276 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "310 lb",
+      "rightValue": "449 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 lb",
+      "rightValue": "41 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "43 lb",
+      "rightValue": "70 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "76 lb",
+      "rightValue": "107 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "117 lb",
+      "rightValue": "152 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "166 lb",
+      "rightValue": "203 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Seated Dumbbell Shoulder Press",
+  "rightName": "Dumbbell Shoulder Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "21 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "31 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "44 kg",
+      "rightValue": "45 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "59 kg",
+      "rightValue": "60 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "10 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "16 kg",
+      "rightValue": "16 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "24 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "32 kg",
+      "rightValue": "31 kg"
+    }
+  ]
+}

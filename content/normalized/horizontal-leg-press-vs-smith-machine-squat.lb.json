@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Horizontal Leg Press",
+  "rightName": "Smith Machine Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "156 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "271 lb",
+      "rightValue": "174 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "425 lb",
+      "rightValue": "265 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "614 lb",
+      "rightValue": "374 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "826 lb",
+      "rightValue": "497 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "82 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "156 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "258 lb",
+      "rightValue": "146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "386 lb",
+      "rightValue": "216 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "532 lb",
+      "rightValue": "296 lb"
+    }
+  ]
+}

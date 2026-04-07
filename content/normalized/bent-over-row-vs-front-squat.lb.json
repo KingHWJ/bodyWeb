@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bent Over Row",
+  "rightName": "Front Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "89 lb",
+      "rightValue": "120 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "133 lb",
+      "rightValue": "170 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "188 lb",
+      "rightValue": "232 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "253 lb",
+      "rightValue": "303 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "323 lb",
+      "rightValue": "379 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "34 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "58 lb",
+      "rightValue": "98 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "91 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "130 lb",
+      "rightValue": "183 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "175 lb",
+      "rightValue": "232 lb"
+    }
+  ]
+}

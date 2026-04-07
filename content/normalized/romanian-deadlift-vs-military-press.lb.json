@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Romanian Deadlift",
+  "rightName": "Military Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "121 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "185 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "266 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "361 lb",
+      "rightValue": "189 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "466 lb",
+      "rightValue": "241 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "63 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "50 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "146 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "201 lb",
+      "rightValue": "106 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "262 lb",
+      "rightValue": "140 lb"
+    }
+  ]
+}

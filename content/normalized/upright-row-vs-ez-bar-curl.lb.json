@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Upright Row",
+  "rightName": "Ez Bar Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "46 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "86 lb",
+      "rightValue": "70 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "140 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "207 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "284 lb",
+      "rightValue": "186 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "45 lb",
+      "rightValue": "40 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "73 lb",
+      "rightValue": "62 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "108 lb",
+      "rightValue": "88 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 lb",
+      "rightValue": "118 lb"
+    }
+  ]
+}

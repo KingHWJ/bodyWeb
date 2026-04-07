@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bent Over Row",
+  "rightName": "Barbell Shrug",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "89 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "133 lb",
+      "rightValue": "181 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "188 lb",
+      "rightValue": "288 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "253 lb",
+      "rightValue": "420 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "323 lb",
+      "rightValue": "570 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "34 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "58 lb",
+      "rightValue": "81 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "91 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "130 lb",
+      "rightValue": "235 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "175 lb",
+      "rightValue": "337 lb"
+    }
+  ]
+}

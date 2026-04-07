@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Romanian Deadlift",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "55 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "84 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "120 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "164 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "211 kg",
+      "rightValue": "141 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "29 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "45 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "66 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "91 kg",
+      "rightValue": "53 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "119 kg",
+      "rightValue": "75 kg"
+    }
+  ]
+}

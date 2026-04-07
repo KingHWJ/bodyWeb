@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Front Squat",
+  "rightName": "Hex Bar Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "55 kg",
+      "rightValue": "91 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "77 kg",
+      "rightValue": "125 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "105 kg",
+      "rightValue": "167 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "137 kg",
+      "rightValue": "215 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "172 kg",
+      "rightValue": "266 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "30 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "45 kg",
+      "rightValue": "69 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "62 kg",
+      "rightValue": "97 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "83 kg",
+      "rightValue": "129 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "105 kg",
+      "rightValue": "165 kg"
+    }
+  ]
+}

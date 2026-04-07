@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hex Bar Deadlift",
+  "rightName": "Bulgarian Split Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "91 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "125 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "167 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "215 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "266 kg",
+      "rightValue": "141 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "69 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "97 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "129 kg",
+      "rightValue": "53 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "165 kg",
+      "rightValue": "75 kg"
+    }
+  ]
+}

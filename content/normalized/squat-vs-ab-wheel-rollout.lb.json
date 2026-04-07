@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat",
+  "rightName": "Ab Wheel Rollout",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "141 lb",
+      "rightValue": "-69 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "206 lb",
+      "rightValue": "+9 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "287 lb",
+      "rightValue": "+114 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "381 lb",
+      "rightValue": "+244 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "483 lb",
+      "rightValue": "+391 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "65 lb",
+      "rightValue": "-42 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "107 lb",
+      "rightValue": "-14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "161 lb",
+      "rightValue": "+20 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "+58 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "300 lb",
+      "rightValue": "+99 lb"
+    }
+  ]
+}

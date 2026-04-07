@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sit Ups",
+  "rightName": "Mountain Climbers",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-9 kg",
+      "rightValue": "-18 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+56 kg",
+      "rightValue": "+32 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+146 kg",
+      "rightValue": "+102 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+261 kg",
+      "rightValue": "+188 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+393 kg",
+      "rightValue": "+287 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-20 kg",
+      "rightValue": "-13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+25 kg",
+      "rightValue": "+21 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+90 kg",
+      "rightValue": "+66 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+172 kg",
+      "rightValue": "+122 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+268 kg",
+      "rightValue": "+184 kg"
+    }
+  ]
+}

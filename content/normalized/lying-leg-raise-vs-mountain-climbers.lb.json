@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lying Leg Raise",
+  "rightName": "Mountain Climbers",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-85 lb",
+      "rightValue": "-39 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+21 lb",
+      "rightValue": "+71 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+179 lb",
+      "rightValue": "+224 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+387 lb",
+      "rightValue": "+415 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+632 lb",
+      "rightValue": "+633 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-46 lb",
+      "rightValue": "-30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+23 lb",
+      "rightValue": "+46 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+117 lb",
+      "rightValue": "+146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+233 lb",
+      "rightValue": "+269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+363 lb",
+      "rightValue": "+407 lb"
+    }
+  ]
+}

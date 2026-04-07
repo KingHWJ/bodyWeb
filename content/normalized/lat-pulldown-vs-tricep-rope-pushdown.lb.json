@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lat Pulldown",
+  "rightName": "Tricep Rope Pushdown",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "85 lb",
+      "rightValue": "33 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "127 lb",
+      "rightValue": "62 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "180 lb",
+      "rightValue": "104 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "243 lb",
+      "rightValue": "156 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "312 lb",
+      "rightValue": "215 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "43 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "68 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "140 lb",
+      "rightValue": "89 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "184 lb",
+      "rightValue": "124 lb"
+    }
+  ]
+}

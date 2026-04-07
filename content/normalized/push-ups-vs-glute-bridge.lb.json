@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Glute Bridge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-4 lb",
+      "rightValue": "-82 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+95 lb",
+      "rightValue": "+32 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+223 lb",
+      "rightValue": "+203 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+377 lb",
+      "rightValue": "+427 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+547 lb",
+      "rightValue": "+690 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-37 lb",
+      "rightValue": "-51 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+16 lb",
+      "rightValue": "+28 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+84 lb",
+      "rightValue": "+140 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+164 lb",
+      "rightValue": "+279 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+251 lb",
+      "rightValue": "+439 lb"
+    }
+  ]
+}

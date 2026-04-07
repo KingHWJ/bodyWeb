@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Single Leg Deadlift",
+  "rightName": "Good Morning",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "29 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "63 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "111 kg",
+      "rightValue": "134 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "168 kg",
+      "rightValue": "189 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 kg",
+      "rightValue": "26 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "28 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "41 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "57 kg",
+      "rightValue": "94 kg"
+    }
+  ]
+}

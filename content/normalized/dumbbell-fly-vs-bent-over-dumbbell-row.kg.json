@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Fly",
+  "rightName": "Bent Over Dumbbell Row",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "13 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "24 kg",
+      "rightValue": "35 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "37 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "52 kg",
+      "rightValue": "70 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "3 kg",
+      "rightValue": "5 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "7 kg",
+      "rightValue": "11 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "12 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "19 kg",
+      "rightValue": "31 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "27 kg",
+      "rightValue": "44 kg"
+    }
+  ]
+}

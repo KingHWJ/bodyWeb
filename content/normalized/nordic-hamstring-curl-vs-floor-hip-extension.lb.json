@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Nordic Hamstring Curl",
+  "rightName": "Floor Hip Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-73 lb",
+      "rightValue": "-44 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-16 lb",
+      "rightValue": "+21 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+58 lb",
+      "rightValue": "+104 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+146 lb",
+      "rightValue": "+202 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+243 lb",
+      "rightValue": "+310 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-43 lb",
+      "rightValue": "-36 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+6 lb",
+      "rightValue": "-1 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+69 lb",
+      "rightValue": "+41 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+143 lb",
+      "rightValue": "+88 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+224 lb",
+      "rightValue": "+139 lb"
+    }
+  ]
+}

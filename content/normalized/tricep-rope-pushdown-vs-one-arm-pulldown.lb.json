@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Tricep Rope Pushdown",
+  "rightName": "One Arm Pulldown",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "33 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "62 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "104 lb",
+      "rightValue": "83 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "156 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "215 lb",
+      "rightValue": "243 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 lb",
+      "rightValue": "8 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "34 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "58 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "89 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "124 lb",
+      "rightValue": "67 lb"
+    }
+  ]
+}

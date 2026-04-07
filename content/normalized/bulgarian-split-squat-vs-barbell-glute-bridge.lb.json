@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bulgarian Split Squat",
+  "rightName": "Barbell Glute Bridge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "73 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "135 lb",
+      "rightValue": "259 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "216 lb",
+      "rightValue": "401 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "310 lb",
+      "rightValue": "566 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "43 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "76 lb",
+      "rightValue": "203 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "117 lb",
+      "rightValue": "300 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "166 lb",
+      "rightValue": "410 lb"
+    }
+  ]
+}

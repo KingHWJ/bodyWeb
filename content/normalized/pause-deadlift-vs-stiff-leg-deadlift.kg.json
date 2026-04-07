@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pause Deadlift",
+  "rightName": "Stiff Leg Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "93 kg",
+      "rightValue": "54 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "125 kg",
+      "rightValue": "84 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "165 kg",
+      "rightValue": "124 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "209 kg",
+      "rightValue": "171 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "257 kg",
+      "rightValue": "223 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "23 kg",
+      "rightValue": "28 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "41 kg",
+      "rightValue": "45 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "64 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "92 kg",
+      "rightValue": "94 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "125 kg",
+      "rightValue": "124 kg"
+    }
+  ]
+}

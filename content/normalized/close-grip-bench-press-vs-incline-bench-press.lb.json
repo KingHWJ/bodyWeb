@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Close Grip Bench Press",
+  "rightName": "Incline Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "104 lb",
+      "rightValue": "98 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "149 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "206 lb",
+      "rightValue": "196 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "271 lb",
+      "rightValue": "260 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "342 lb",
+      "rightValue": "329 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "45 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "72 lb",
+      "rightValue": "58 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "109 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "153 lb",
+      "rightValue": "147 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "202 lb",
+      "rightValue": "204 lb"
+    }
+  ]
+}

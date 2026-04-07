@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Safety Bar Squat",
+  "rightName": "Barbell Reverse Lunge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "160 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "238 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "336 lb",
+      "rightValue": "217 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "451 lb",
+      "rightValue": "297 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "577 lb",
+      "rightValue": "385 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "133 lb",
+      "rightValue": "79 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "197 lb",
+      "rightValue": "118 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "273 lb",
+      "rightValue": "164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "357 lb",
+      "rightValue": "216 lb"
+    }
+  ]
+}

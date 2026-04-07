@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Preacher Curl",
+  "rightName": "Strict Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "37 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "65 lb",
+      "rightValue": "78 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "146 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "197 lb",
+      "rightValue": "191 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "32 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "58 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "90 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "127 lb",
+      "rightValue": "118 lb"
+    }
+  ]
+}

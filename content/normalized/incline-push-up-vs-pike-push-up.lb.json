@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Incline Push Up",
+  "rightName": "Pike Push Up",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-73 lb",
+      "rightValue": "-37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+33 lb",
+      "rightValue": "+26 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+187 lb",
+      "rightValue": "+104 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+383 lb",
+      "rightValue": "+196 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+610 lb",
+      "rightValue": "+296 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-69 lb",
+      "rightValue": "-44 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-11 lb",
+      "rightValue": "+1 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+71 lb",
+      "rightValue": "+58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+172 lb",
+      "rightValue": "+125 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+288 lb",
+      "rightValue": "+198 lb"
+    }
+  ]
+}

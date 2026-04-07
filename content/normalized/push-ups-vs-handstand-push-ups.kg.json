@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Handstand Push Ups",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-2 kg",
+      "rightValue": "-36 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+43 kg",
+      "rightValue": "-8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+101 kg",
+      "rightValue": "+29 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+171 kg",
+      "rightValue": "+74 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+248 kg",
+      "rightValue": "+125 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 kg",
+      "rightValue": "-25 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+8 kg",
+      "rightValue": "-7 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+38 kg",
+      "rightValue": "+17 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+74 kg",
+      "rightValue": "+44 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+114 kg",
+      "rightValue": "+75 kg"
+    }
+  ]
+}

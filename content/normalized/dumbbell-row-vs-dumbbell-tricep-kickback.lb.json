@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Row",
+  "rightName": "Dumbbell Tricep Kickback",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "35 lb",
+      "rightValue": "9 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 lb",
+      "rightValue": "21 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "94 lb",
+      "rightValue": "40 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "136 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "182 lb",
+      "rightValue": "94 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "30 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "68 lb",
+      "rightValue": "37 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "92 lb",
+      "rightValue": "51 lb"
+    }
+  ]
+}

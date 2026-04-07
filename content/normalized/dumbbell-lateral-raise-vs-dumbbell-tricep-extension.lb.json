@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Lateral Raise",
+  "rightName": "Dumbbell Tricep Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "11 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "54 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 lb",
+      "rightValue": "122 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 lb",
+      "rightValue": "16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "20 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "31 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "44 lb",
+      "rightValue": "63 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hex Bar Deadlift",
+  "rightName": "Sumo Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "200 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "276 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "368 lb",
+      "rightValue": "363 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "473 lb",
+      "rightValue": "471 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "586 lb",
+      "rightValue": "587 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "103 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "152 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "213 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "285 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "364 lb",
+      "rightValue": "339 lb"
+    }
+  ]
+}
