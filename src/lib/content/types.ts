@@ -3,6 +3,11 @@ export type FaqEntry = {
   body: string;
 };
 
+export type FaqSection = {
+  title: string;
+  entries: FaqEntry[];
+};
+
 export type ContentInventory = {
   generatedAt: string;
   staticPages: string[];
