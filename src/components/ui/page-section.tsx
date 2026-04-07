@@ -7,7 +7,7 @@ export function PageSection({
   children,
 }: {
   eyebrow?: string;
-  title: string;
+  title: ReactNode;
   description?: string;
   children: ReactNode;
 }) {

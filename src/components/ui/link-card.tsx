@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import Link from "next/link";
 
 export function LinkCard({
@@ -7,7 +8,7 @@ export function LinkCard({
   badge,
 }: {
   href: string;
-  title: string;
+  title: ReactNode;
   description: string;
   badge?: string;
 }) {

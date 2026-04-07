@@ -1,14 +1,39 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
+import { ExerciseName } from "@/components/ui/exercise-name";
 import { LinkCard } from "@/components/ui/link-card";
 import { PageSection } from "@/components/ui/page-section";
-import { CALCULATOR_DEFINITIONS, FAQ_SECTION_SUMMARY, FEATURED_STANDARDS } from "@/lib/site-data";
+import { CALCULATOR_DEFINITIONS, FAQ_SECTION_SUMMARY } from "@/lib/site-data";
 
 export const metadata: Metadata = {
   title: "首页",
   description: "查看中文力量标准、动作对比与常用力量计算器。",
 };
+
+const FEATURED_STANDARD_CARDS = [
+  {
+    href: "/strength-standards/bench-press/kg",
+    slug: "bench-press",
+    description: "查看男女卧推等级、按体重和年龄分布。",
+  },
+  {
+    href: "/strength-standards/squat/kg",
+    slug: "squat",
+    description: "快速比对深蹲强度，适合三大项训练者。",
+  },
+  {
+    href: "/strength-standards/deadlift/kg",
+    slug: "deadlift",
+    description: "查看硬拉各等级的重量阈值和对照表。",
+  },
+  {
+    href: "/powerlifting-standards",
+    slug: null,
+    title: "三项总成绩",
+    description: "把三大项汇总到同一个页面，评估整体力量水平。",
+  },
+] as const;
 
 export default function HomePage() {
   return (
@@ -72,8 +97,14 @@ export default function HomePage() {
         description="三大项和总成绩页是最常用的入口，先把这些核心页面放到首页，后面再扩展到全部动作和动作对比。"
       >
         <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-4">
-          {FEATURED_STANDARDS.map((item) => (
-            <LinkCard key={item.href} {...item} badge="标准页" />
+          {FEATURED_STANDARD_CARDS.map((item) => (
+            <LinkCard
+              key={item.href}
+              href={item.href}
+              title={item.slug ? <><ExerciseName slug={item.slug} /> 标准</> : item.title}
+              description={item.description}
+              badge="标准页"
+            />
           ))}
         </div>
       </PageSection>
