@@ -34,6 +34,8 @@ describe("站点清单生成", () => {
     ]);
 
     expect(inventory.staticPages).toContain("/");
+    expect(inventory.staticPages).toContain("/content-coverage");
+    expect(inventory.staticPages).toContain("/exercise-library");
     expect(inventory.calculatorPages).toContain("/one-rep-max-calculator");
     expect(inventory.aggregateStandardPages).toContain("/strength-standards/male/kg");
     expect(inventory.exerciseStandardSlugs).toEqual(["bench-press"]);

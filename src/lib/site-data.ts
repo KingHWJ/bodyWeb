@@ -13,7 +13,9 @@ export type CalculatorDefinition = {
 export const NAV_ITEMS: NavItem[] = [
   { href: "/", label: "首页" },
   { href: "/strength-standards", label: "力量标准" },
+  { href: "/exercise-library", label: "动作列表" },
   { href: "/calculators", label: "计算器" },
+  { href: "/content-coverage", label: "覆盖清单" },
   { href: "/faq", label: "FAQ" },
 ];
 

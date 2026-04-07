@@ -1,6 +1,13 @@
 import type { ContentInventory, FaqEntry } from "@/lib/content/types";
 
-const DEFAULT_STATIC_PAGES = ["/", "/calculators", "/strength-standards", "/faq"];
+const DEFAULT_STATIC_PAGES = [
+  "/",
+  "/calculators",
+  "/strength-standards",
+  "/faq",
+  "/content-coverage",
+  "/exercise-library",
+];
 
 const EXCLUDED_INFO_PAGES = new Set([
   "/about",
