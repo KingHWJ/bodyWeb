@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Press",
+  "rightName": "Push Jerk",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "37 kg",
+      "rightValue": "42 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "57 kg",
+      "rightValue": "63 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "83 kg",
+      "rightValue": "89 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "114 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "154 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 kg",
+      "rightValue": "28 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "33 kg",
+      "rightValue": "39 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 kg",
+      "rightValue": "52 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "62 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "80 kg",
+      "rightValue": "84 kg"
+    }
+  ]
+}

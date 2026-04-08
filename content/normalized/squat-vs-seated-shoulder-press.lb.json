@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat",
+  "rightName": "Seated Shoulder Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "141 lb",
+      "rightValue": "61 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "206 lb",
+      "rightValue": "102 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "287 lb",
+      "rightValue": "155 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "381 lb",
+      "rightValue": "220 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "483 lb",
+      "rightValue": "292 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "65 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "107 lb",
+      "rightValue": "39 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "161 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "300 lb",
+      "rightValue": "155 lb"
+    }
+  ]
+}

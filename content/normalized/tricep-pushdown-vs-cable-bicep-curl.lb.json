@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Tricep Pushdown",
+  "rightName": "Cable Bicep Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "74 lb",
+      "rightValue": "63 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "125 lb",
+      "rightValue": "113 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "189 lb",
+      "rightValue": "178 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "262 lb",
+      "rightValue": "254 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "39 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "69 lb",
+      "rightValue": "60 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "107 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "152 lb",
+      "rightValue": "142 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pendlay Row",
+  "rightName": "Decline Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 kg",
+      "rightValue": "75 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "91 kg",
+      "rightValue": "106 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "118 kg",
+      "rightValue": "142 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "148 kg",
+      "rightValue": "181 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "25 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "37 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "69 kg",
+      "rightValue": "82 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "88 kg",
+      "rightValue": "112 kg"
+    }
+  ]
+}

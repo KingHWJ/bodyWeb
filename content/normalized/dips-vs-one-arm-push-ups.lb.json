@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dips",
+  "rightName": "One Arm Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 lb",
+      "rightValue": "-81 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+41 lb",
+      "rightValue": "-23 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+110 lb",
+      "rightValue": "+55 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+190 lb",
+      "rightValue": "+150 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+276 lb",
+      "rightValue": "+257 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-45 lb",
+      "rightValue": "-107 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-6 lb",
+      "rightValue": "-52 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+43 lb",
+      "rightValue": "+36 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+98 lb",
+      "rightValue": "+154 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+159 lb",
+      "rightValue": "+296 lb"
+    }
+  ]
+}

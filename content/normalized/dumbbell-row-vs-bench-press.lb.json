@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Row",
+  "rightName": "Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "35 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "94 lb",
+      "rightValue": "217 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "136 lb",
+      "rightValue": "291 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "182 lb",
+      "rightValue": "372 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 lb",
+      "rightValue": "38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "30 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "68 lb",
+      "rightValue": "164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "92 lb",
+      "rightValue": "223 lb"
+    }
+  ]
+}

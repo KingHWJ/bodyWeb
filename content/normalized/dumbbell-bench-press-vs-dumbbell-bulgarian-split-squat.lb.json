@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Bench Press",
+  "rightName": "Dumbbell Bulgarian Split Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "35 lb",
+      "rightValue": "22 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "59 lb",
+      "rightValue": "40 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "90 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "129 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "171 lb",
+      "rightValue": "132 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 lb",
+      "rightValue": "39 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 lb",
+      "rightValue": "58 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "101 lb",
+      "rightValue": "80 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Decline Bench Press",
+  "rightName": "Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "111 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "165 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "233 lb",
+      "rightValue": "217 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "312 lb",
+      "rightValue": "291 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "399 lb",
+      "rightValue": "372 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "39 lb",
+      "rightValue": "38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "74 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "121 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "180 lb",
+      "rightValue": "164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "247 lb",
+      "rightValue": "223 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Lunge",
+  "rightName": "Barbell Lunge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "37 lb",
+      "rightValue": "115 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "65 lb",
+      "rightValue": "181 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "102 lb",
+      "rightValue": "262 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "145 lb",
+      "rightValue": "353 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 lb",
+      "rightValue": "42 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "24 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "41 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "64 lb",
+      "rightValue": "157 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "89 lb",
+      "rightValue": "211 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Burpees",
+  "rightName": "Sit Ups",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-32 kg",
+      "rightValue": "-9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+18 kg",
+      "rightValue": "+56 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+91 kg",
+      "rightValue": "+146 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+185 kg",
+      "rightValue": "+261 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+294 kg",
+      "rightValue": "+393 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-23 kg",
+      "rightValue": "-20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+11 kg",
+      "rightValue": "+25 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+59 kg",
+      "rightValue": "+90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+118 kg",
+      "rightValue": "+172 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+185 kg",
+      "rightValue": "+268 kg"
+    }
+  ]
+}

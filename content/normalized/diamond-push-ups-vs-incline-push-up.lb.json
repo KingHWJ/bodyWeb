@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Diamond Push Ups",
+  "rightName": "Incline Push Up",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-31 lb",
+      "rightValue": "-73 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+37 lb",
+      "rightValue": "+33 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+124 lb",
+      "rightValue": "+187 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+226 lb",
+      "rightValue": "+383 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+339 lb",
+      "rightValue": "+610 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-78 lb",
+      "rightValue": "-69 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-22 lb",
+      "rightValue": "-11 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+57 lb",
+      "rightValue": "+71 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+157 lb",
+      "rightValue": "+172 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+272 lb",
+      "rightValue": "+288 lb"
+    }
+  ]
+}

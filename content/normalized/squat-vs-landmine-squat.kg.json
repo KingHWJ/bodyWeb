@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Squat",
+  "rightName": "Landmine Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "64 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "93 kg",
+      "rightValue": "52 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "130 kg",
+      "rightValue": "94 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "173 kg",
+      "rightValue": "148 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "219 kg",
+      "rightValue": "211 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "30 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "48 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "73 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "103 kg",
+      "rightValue": "73 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "136 kg",
+      "rightValue": "99 kg"
+    }
+  ]
+}

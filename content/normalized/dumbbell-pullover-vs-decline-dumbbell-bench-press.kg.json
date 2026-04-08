@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Pullover",
+  "rightName": "Decline Dumbbell Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "22 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "35 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "51 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "70 kg",
+      "rightValue": "75 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "5 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 kg",
+      "rightValue": "11 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "20 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "30 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "42 kg",
+      "rightValue": "49 kg"
+    }
+  ]
+}

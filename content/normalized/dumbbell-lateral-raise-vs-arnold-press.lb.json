@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Lateral Raise",
+  "rightName": "Arnold Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 lb",
+      "rightValue": "19 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "54 lb",
+      "rightValue": "79 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "79 lb",
+      "rightValue": "107 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "11 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 lb",
+      "rightValue": "19 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "20 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "31 lb",
+      "rightValue": "39 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "44 lb",
+      "rightValue": "52 lb"
+    }
+  ]
+}

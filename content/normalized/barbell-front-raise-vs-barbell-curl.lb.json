@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Front Raise",
+  "rightName": "Barbell Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 lb",
+      "rightValue": "38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "34 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "84 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "157 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "248 lb",
+      "rightValue": "201 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "43 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "65 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "90 lb",
+      "rightValue": "120 lb"
+    }
+  ]
+}

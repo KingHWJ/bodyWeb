@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Close Grip Bench Press",
+  "rightName": "Reverse Grip Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "104 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "149 lb",
+      "rightValue": "135 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "206 lb",
+      "rightValue": "218 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "271 lb",
+      "rightValue": "322 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "342 lb",
+      "rightValue": "439 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "45 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "72 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "109 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "153 lb",
+      "rightValue": "126 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "202 lb",
+      "rightValue": "172 lb"
+    }
+  ]
+}

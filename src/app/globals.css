@@ -1,26 +1,59 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f7f0e7;
+  --foreground: #13202b;
+  --surface: rgba(255, 252, 247, 0.88);
+  --panel: #ebe2d5;
+  --panel-strong: #18384f;
+  --panel-foreground: #f6eee1;
+  --panel-foreground-muted: rgba(246, 238, 225, 0.75);
+  --ink: #13202b;
+  --muted: #52606d;
+  --muted-strong: #334350;
+  --border: rgba(19, 32, 43, 0.1);
+  --accent: #d6683f;
+  --accent-foreground: #fff7f0;
+  --hero: rgba(214, 104, 63, 0.18);
+  --glow: rgba(21, 133, 110, 0.2);
+  --font-sans-stack: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  --font-mono-stack: "SFMono-Regular", "Source Code Pro", "Menlo", monospace;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-surface: var(--surface);
+  --color-panel: var(--panel);
+  --color-panel-strong: var(--panel-strong);
+  --color-panel-foreground: var(--panel-foreground);
+  --color-panel-foreground-muted: var(--panel-foreground-muted);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-muted-strong: var(--muted-strong);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-hero: var(--hero);
+  --color-glow: var(--glow);
+  --font-sans: var(--font-sans-stack);
+  --font-mono: var(--font-mono-stack);
 }
 
 body {
-  background: var(--background);
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(214, 104, 63, 0.1), transparent 24rem),
+    radial-gradient(circle at top right, rgba(21, 133, 110, 0.12), transparent 18rem),
+    linear-gradient(180deg, #fbf6ef 0%, #f3eadf 100%);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans-stack);
+}
+
+a {
+  text-decoration: none;
+}
+
+::selection {
+  background: rgba(214, 104, 63, 0.22);
 }

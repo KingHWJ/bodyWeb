@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Log Press",
+  "rightName": "Shoulder Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "97 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "149 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "215 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "293 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "378 lb",
+      "rightValue": "248 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "44 lb",
+      "rightValue": "48 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "74 lb",
+      "rightValue": "75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "112 lb",
+      "rightValue": "107 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "156 lb",
+      "rightValue": "143 lb"
+    }
+  ]
+}

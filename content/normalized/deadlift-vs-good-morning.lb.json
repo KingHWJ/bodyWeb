@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deadlift",
+  "rightName": "Good Morning",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "173 lb",
+      "rightValue": "52 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "246 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "336 lb",
+      "rightValue": "191 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "440 lb",
+      "rightValue": "296 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "552 lb",
+      "rightValue": "416 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "132 lb",
+      "rightValue": "57 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "193 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "265 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "345 lb",
+      "rightValue": "207 lb"
+    }
+  ]
+}

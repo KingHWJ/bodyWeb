@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Military Press",
+  "rightName": "Viking Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "69 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "101 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "142 lb",
+      "rightValue": "240 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "189 lb",
+      "rightValue": "364 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "241 lb",
+      "rightValue": "506 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "31 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "50 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "76 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "106 lb",
+      "rightValue": "108 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "140 lb",
+      "rightValue": "145 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Machine Shoulder Press",
+  "rightName": "Chest Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "54 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "102 lb",
+      "rightValue": "125 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "170 lb",
+      "rightValue": "198 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "254 lb",
+      "rightValue": "288 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "350 lb",
+      "rightValue": "389 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 lb",
+      "rightValue": "21 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "40 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "76 lb",
+      "rightValue": "83 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "122 lb",
+      "rightValue": "131 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "177 lb",
+      "rightValue": "186 lb"
+    }
+  ]
+}

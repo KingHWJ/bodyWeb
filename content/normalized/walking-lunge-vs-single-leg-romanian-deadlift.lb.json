@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Walking Lunge",
+  "rightName": "Single Leg Romanian Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "49 lb",
+      "rightValue": "51 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "139 lb",
+      "rightValue": "116 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "276 lb",
+      "rightValue": "208 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "449 lb",
+      "rightValue": "321 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 lb",
+      "rightValue": "23 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 lb",
+      "rightValue": "42 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "107 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "152 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "203 lb",
+      "rightValue": "135 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Jm Press",
+  "rightName": "Close Grip Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "42 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "66 kg",
+      "rightValue": "93 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "96 kg",
+      "rightValue": "123 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "130 kg",
+      "rightValue": "155 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "16 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "28 kg",
+      "rightValue": "49 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "44 kg",
+      "rightValue": "69 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "63 kg",
+      "rightValue": "91 kg"
+    }
+  ]
+}

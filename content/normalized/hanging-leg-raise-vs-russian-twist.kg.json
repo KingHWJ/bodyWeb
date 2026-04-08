@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hanging Leg Raise",
+  "rightName": "Russian Twist",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-18 kg",
+      "rightValue": "-16 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+9 kg",
+      "rightValue": "+37 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+43 kg",
+      "rightValue": "+109 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+83 kg",
+      "rightValue": "+200 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+126 kg",
+      "rightValue": "+304 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-13 kg",
+      "rightValue": "-14 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+6 kg",
+      "rightValue": "+22 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+30 kg",
+      "rightValue": "+70 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+57 kg",
+      "rightValue": "+129 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+87 kg",
+      "rightValue": "+196 kg"
+    }
+  ]
+}

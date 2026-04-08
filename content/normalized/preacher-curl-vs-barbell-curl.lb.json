@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Preacher Curl",
+  "rightName": "Barbell Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "37 lb",
+      "rightValue": "38 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "65 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "146 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "197 lb",
+      "rightValue": "201 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "32 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "58 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "90 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "127 lb",
+      "rightValue": "120 lb"
+    }
+  ]
+}

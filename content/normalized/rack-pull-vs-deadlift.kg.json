@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Rack Pull",
+  "rightName": "Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "93 kg",
+      "rightValue": "78 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "136 kg",
+      "rightValue": "112 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "190 kg",
+      "rightValue": "152 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "254 kg",
+      "rightValue": "200 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "323 kg",
+      "rightValue": "250 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "52 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "80 kg",
+      "rightValue": "60 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "116 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "158 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "205 kg",
+      "rightValue": "157 kg"
+    }
+  ]
+}

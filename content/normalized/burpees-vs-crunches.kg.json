@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Burpees",
+  "rightName": "Crunches",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-32 kg",
+      "rightValue": "-16 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+18 kg",
+      "rightValue": "+46 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+91 kg",
+      "rightValue": "+136 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+185 kg",
+      "rightValue": "+249 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+294 kg",
+      "rightValue": "+381 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-23 kg",
+      "rightValue": "-22 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+11 kg",
+      "rightValue": "+24 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+59 kg",
+      "rightValue": "+90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+118 kg",
+      "rightValue": "+174 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+185 kg",
+      "rightValue": "+271 kg"
+    }
+  ]
+}

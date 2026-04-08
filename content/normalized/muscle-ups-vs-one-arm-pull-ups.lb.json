@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Muscle Ups",
+  "rightName": "One Arm Pull Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-42 lb",
+      "rightValue": "-48 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-9 lb",
+      "rightValue": "-18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+29 lb",
+      "rightValue": "+17 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+72 lb",
+      "rightValue": "+56 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+117 lb",
+      "rightValue": "+97 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-43 lb",
+      "rightValue": "-88 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-17 lb",
+      "rightValue": "-38 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+14 lb",
+      "rightValue": "+33 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+48 lb",
+      "rightValue": "+124 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+83 lb",
+      "rightValue": "+229 lb"
+    }
+  ]
+}

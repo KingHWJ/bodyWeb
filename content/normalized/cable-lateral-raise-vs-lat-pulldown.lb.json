@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Cable Lateral Raise",
+  "rightName": "Lat Pulldown",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "2 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "15 lb",
+      "rightValue": "127 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "40 lb",
+      "rightValue": "180 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "79 lb",
+      "rightValue": "243 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "127 lb",
+      "rightValue": "312 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "5 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "21 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "34 lb",
+      "rightValue": "140 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "48 lb",
+      "rightValue": "184 lb"
+    }
+  ]
+}

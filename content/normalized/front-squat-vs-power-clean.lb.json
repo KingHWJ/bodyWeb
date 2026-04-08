@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Front Squat",
+  "rightName": "Power Clean",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "120 lb",
+      "rightValue": "102 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "170 lb",
+      "rightValue": "147 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "232 lb",
+      "rightValue": "202 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "303 lb",
+      "rightValue": "266 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "379 lb",
+      "rightValue": "336 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "67 lb",
+      "rightValue": "60 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "98 lb",
+      "rightValue": "86 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "137 lb",
+      "rightValue": "119 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "183 lb",
+      "rightValue": "156 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "232 lb",
+      "rightValue": "197 lb"
+    }
+  ]
+}

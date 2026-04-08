@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Shoulder Press",
+  "rightName": "Behind The Neck Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "66 lb",
+      "rightValue": "51 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "142 lb",
+      "rightValue": "143 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "192 lb",
+      "rightValue": "209 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "248 lb",
+      "rightValue": "283 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "48 lb",
+      "rightValue": "49 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "75 lb",
+      "rightValue": "75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "107 lb",
+      "rightValue": "106 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "143 lb",
+      "rightValue": "140 lb"
+    }
+  ]
+}

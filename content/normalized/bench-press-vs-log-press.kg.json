@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Press",
+  "rightName": "Log Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "98 kg",
+      "rightValue": "97 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "132 kg",
+      "rightValue": "133 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "169 kg",
+      "rightValue": "172 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "51 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "74 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "101 kg",
+      "rightValue": "71 kg"
+    }
+  ]
+}

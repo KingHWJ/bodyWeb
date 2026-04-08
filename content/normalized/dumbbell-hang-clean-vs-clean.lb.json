@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Hang Clean",
+  "rightName": "Clean",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "25 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "44 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "71 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "103 lb",
+      "rightValue": "266 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "140 lb",
+      "rightValue": "330 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "24 lb",
+      "rightValue": "94 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "38 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "55 lb",
+      "rightValue": "159 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "75 lb",
+      "rightValue": "196 lb"
+    }
+  ]
+}

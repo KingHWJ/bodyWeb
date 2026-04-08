@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Reverse Fly",
+  "rightName": "Chest Supported Dumbbell Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "5 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "18 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "39 lb",
+      "rightValue": "82 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "70 lb",
+      "rightValue": "129 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "106 lb",
+      "rightValue": "185 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 lb",
+      "rightValue": "15 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "11 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "22 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "37 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "55 lb",
+      "rightValue": "94 lb"
+    }
+  ]
+}

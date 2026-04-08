@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Pullover",
+  "rightName": "Ab Wheel Rollout",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 kg",
+      "rightValue": "-31 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "+4 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "+52 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "73 kg",
+      "rightValue": "+111 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "103 kg",
+      "rightValue": "+177 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 kg",
+      "rightValue": "-19 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "8 kg",
+      "rightValue": "-6 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "14 kg",
+      "rightValue": "+9 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "21 kg",
+      "rightValue": "+26 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "29 kg",
+      "rightValue": "+45 kg"
+    }
+  ]
+}

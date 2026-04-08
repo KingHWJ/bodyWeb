@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Box Squat",
+  "rightName": "Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "69 kg",
+      "rightValue": "78 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "106 kg",
+      "rightValue": "112 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "153 kg",
+      "rightValue": "152 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "209 kg",
+      "rightValue": "200 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "270 kg",
+      "rightValue": "250 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "59 kg",
+      "rightValue": "60 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "120 kg",
+      "rightValue": "120 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "156 kg",
+      "rightValue": "157 kg"
+    }
+  ]
+}

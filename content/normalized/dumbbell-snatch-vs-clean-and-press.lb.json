@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Snatch",
+  "rightName": "Clean And Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 lb",
+      "rightValue": "78 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "46 lb",
+      "rightValue": "121 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "76 lb",
+      "rightValue": "176 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 lb",
+      "rightValue": "240 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "159 lb",
+      "rightValue": "312 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "25 lb",
+      "rightValue": "60 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 lb",
+      "rightValue": "92 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 lb",
+      "rightValue": "132 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "93 lb",
+      "rightValue": "177 lb"
+    }
+  ]
+}

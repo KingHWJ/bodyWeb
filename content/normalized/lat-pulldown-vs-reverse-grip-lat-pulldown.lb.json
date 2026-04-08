@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lat Pulldown",
+  "rightName": "Reverse Grip Lat Pulldown",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "85 lb",
+      "rightValue": "92 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "127 lb",
+      "rightValue": "138 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "180 lb",
+      "rightValue": "198 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "243 lb",
+      "rightValue": "267 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "312 lb",
+      "rightValue": "344 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "43 lb",
+      "rightValue": "19 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "68 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "85 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "140 lb",
+      "rightValue": "136 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "184 lb",
+      "rightValue": "197 lb"
+    }
+  ]
+}

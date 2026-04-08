@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Nordic Hamstring Curl",
+  "rightName": "Glute Ham Raise",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-33 kg",
+      "rightValue": "-32 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-7 kg",
+      "rightValue": "+6 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+26 kg",
+      "rightValue": "+57 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+66 kg",
+      "rightValue": "+120 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+110 kg",
+      "rightValue": "+192 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-20 kg",
+      "rightValue": "-16 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+3 kg",
+      "rightValue": "+23 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+31 kg",
+      "rightValue": "+75 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+65 kg",
+      "rightValue": "+140 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+101 kg",
+      "rightValue": "+213 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Romanian Deadlift",
+  "rightName": "Dumbbell Lunge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "27 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "53 lb",
+      "rightValue": "37 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "90 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "135 lb",
+      "rightValue": "102 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "188 lb",
+      "rightValue": "145 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "35 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "57 lb",
+      "rightValue": "41 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "83 lb",
+      "rightValue": "64 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "113 lb",
+      "rightValue": "89 lb"
+    }
+  ]
+}

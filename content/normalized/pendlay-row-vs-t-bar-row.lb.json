@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pendlay Row",
+  "rightName": "T Bar Row",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "104 lb",
+      "rightValue": "81 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 lb",
+      "rightValue": "130 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "200 lb",
+      "rightValue": "196 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "260 lb",
+      "rightValue": "274 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "326 lb",
+      "rightValue": "361 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "55 lb",
+      "rightValue": "36 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "81 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "114 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "152 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "194 lb",
+      "rightValue": "209 lb"
+    }
+  ]
+}

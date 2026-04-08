@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hanging Leg Raise",
+  "rightName": "Bicycle Crunch",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-40 lb",
+      "rightValue": "-65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+20 lb",
+      "rightValue": "+53 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+95 lb",
+      "rightValue": "+227 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+182 lb",
+      "rightValue": "+451 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+278 lb",
+      "rightValue": "+713 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-30 lb",
+      "rightValue": "-36 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+13 lb",
+      "rightValue": "+29 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+66 lb",
+      "rightValue": "+114 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+126 lb",
+      "rightValue": "+217 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+192 lb",
+      "rightValue": "+332 lb"
+    }
+  ]
+}

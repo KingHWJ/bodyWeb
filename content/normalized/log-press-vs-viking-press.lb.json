@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Log Press",
+  "rightName": "Viking Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "97 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "149 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "215 lb",
+      "rightValue": "240 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "293 lb",
+      "rightValue": "364 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "378 lb",
+      "rightValue": "506 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "44 lb",
+      "rightValue": "47 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "74 lb",
+      "rightValue": "74 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "112 lb",
+      "rightValue": "108 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "156 lb",
+      "rightValue": "145 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Incline Dumbbell Fly",
+  "rightName": "Incline Dumbbell Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "16 lb",
+      "rightValue": "41 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "33 lb",
+      "rightValue": "62 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "57 lb",
+      "rightValue": "87 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "88 lb",
+      "rightValue": "117 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "124 lb",
+      "rightValue": "149 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 lb",
+      "rightValue": "15 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "30 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "48 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "69 lb",
+      "rightValue": "89 lb"
+    }
+  ]
+}

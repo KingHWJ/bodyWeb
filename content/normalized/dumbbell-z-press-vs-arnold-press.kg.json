@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Z Press",
+  "rightName": "Arnold Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 kg",
+      "rightValue": "8 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "28 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "41 kg",
+      "rightValue": "36 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "57 kg",
+      "rightValue": "49 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 kg",
+      "rightValue": "5 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "8 kg",
+      "rightValue": "8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "14 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "21 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "29 kg",
+      "rightValue": "24 kg"
+    }
+  ]
+}

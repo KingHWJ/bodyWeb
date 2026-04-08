@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dips",
+  "rightName": "Bench Dips",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 lb",
+      "rightValue": "-43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+41 lb",
+      "rightValue": "+50 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+110 lb",
+      "rightValue": "+176 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+190 lb",
+      "rightValue": "+329 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+276 lb",
+      "rightValue": "+503 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-45 lb",
+      "rightValue": "-45 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-6 lb",
+      "rightValue": "+11 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+43 lb",
+      "rightValue": "+84 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+98 lb",
+      "rightValue": "+171 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+159 lb",
+      "rightValue": "+268 lb"
+    }
+  ]
+}

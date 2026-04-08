@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Good Morning",
+  "rightName": "Hip Thrust",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "52 lb",
+      "rightValue": "84 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "109 lb",
+      "rightValue": "167 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "191 lb",
+      "rightValue": "284 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "296 lb",
+      "rightValue": "432 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "416 lb",
+      "rightValue": "603 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "28 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "57 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "97 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "148 lb",
+      "rightValue": "306 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "207 lb",
+      "rightValue": "421 lb"
+    }
+  ]
+}

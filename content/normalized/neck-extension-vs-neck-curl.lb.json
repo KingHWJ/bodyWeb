@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Neck Extension",
+  "rightName": "Neck Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "5 lb",
+      "rightValue": "2 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "32 lb",
+      "rightValue": "26 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "86 lb",
+      "rightValue": "82 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "167 lb",
+      "rightValue": "170 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "270 lb",
+      "rightValue": "284 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 lb",
+      "rightValue": "9 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "14 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "24 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "38 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "53 lb",
+      "rightValue": "77 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Decline Bench Press",
+  "rightName": "Floor Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "50 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "75 kg",
+      "rightValue": "63 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "106 kg",
+      "rightValue": "97 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "142 kg",
+      "rightValue": "138 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "181 kg",
+      "rightValue": "183 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "18 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "33 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "55 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "82 kg",
+      "rightValue": "76 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "112 kg",
+      "rightValue": "105 kg"
+    }
+  ]
+}

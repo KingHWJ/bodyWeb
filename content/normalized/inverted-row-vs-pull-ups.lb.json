@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Inverted Row",
+  "rightName": "Pull Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-42 lb",
+      "rightValue": "-28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+22 lb",
+      "rightValue": "+18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+103 lb",
+      "rightValue": "+75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+198 lb",
+      "rightValue": "+138 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+302 lb",
+      "rightValue": "+206 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-42 lb",
+      "rightValue": "-48 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+2 lb",
+      "rightValue": "-17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+58 lb",
+      "rightValue": "+22 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+122 lb",
+      "rightValue": "+65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+192 lb",
+      "rightValue": "+112 lb"
+    }
+  ]
+}

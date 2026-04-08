@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Paused Bench Press",
+  "rightName": "Spoto Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "134 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "180 lb",
+      "rightValue": "145 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "236 lb",
+      "rightValue": "204 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "299 lb",
+      "rightValue": "272 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "367 lb",
+      "rightValue": "347 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "34 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "63 lb",
+      "rightValue": "63 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "103 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "154 lb",
+      "rightValue": "154 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "211 lb",
+      "rightValue": "211 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sumo Deadlift",
+  "rightName": "Barbell Hack Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "192 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "269 lb",
+      "rightValue": "183 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "363 lb",
+      "rightValue": "278 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "471 lb",
+      "rightValue": "393 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "587 lb",
+      "rightValue": "522 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "105 lb",
+      "rightValue": "42 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "150 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "205 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "269 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "339 lb",
+      "rightValue": "196 lb"
+    }
+  ]
+}

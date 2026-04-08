@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pull Ups",
+  "rightName": "Single Leg Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-13 kg",
+      "rightValue": "-34 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+8 kg",
+      "rightValue": "-6 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+34 kg",
+      "rightValue": "+33 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+63 kg",
+      "rightValue": "+79 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+93 kg",
+      "rightValue": "+132 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-22 kg",
+      "rightValue": "-23 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-8 kg",
+      "rightValue": "-4 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+10 kg",
+      "rightValue": "+22 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+30 kg",
+      "rightValue": "+51 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+51 kg",
+      "rightValue": "+84 kg"
+    }
+  ]
+}

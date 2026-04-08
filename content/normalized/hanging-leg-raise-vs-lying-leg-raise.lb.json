@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hanging Leg Raise",
+  "rightName": "Lying Leg Raise",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-40 lb",
+      "rightValue": "-85 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+20 lb",
+      "rightValue": "+21 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+95 lb",
+      "rightValue": "+179 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+182 lb",
+      "rightValue": "+387 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+278 lb",
+      "rightValue": "+632 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-30 lb",
+      "rightValue": "-46 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+13 lb",
+      "rightValue": "+23 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+66 lb",
+      "rightValue": "+117 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+126 lb",
+      "rightValue": "+233 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+192 lb",
+      "rightValue": "+363 lb"
+    }
+  ]
+}

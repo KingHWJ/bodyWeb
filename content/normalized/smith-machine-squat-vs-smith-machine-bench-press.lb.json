@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Smith Machine Squat",
+  "rightName": "Smith Machine Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "105 lb",
+      "rightValue": "102 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "174 lb",
+      "rightValue": "151 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "265 lb",
+      "rightValue": "214 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "374 lb",
+      "rightValue": "287 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "497 lb",
+      "rightValue": "366 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "49 lb",
+      "rightValue": "37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "90 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "146 lb",
+      "rightValue": "114 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "216 lb",
+      "rightValue": "170 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "296 lb",
+      "rightValue": "233 lb"
+    }
+  ]
+}

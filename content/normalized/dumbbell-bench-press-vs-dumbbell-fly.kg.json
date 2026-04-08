@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Bench Press",
+  "rightName": "Dumbbell Fly",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "16 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "27 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "41 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "58 kg",
+      "rightValue": "37 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "78 kg",
+      "rightValue": "52 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "3 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 kg",
+      "rightValue": "7 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "21 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "32 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "46 kg",
+      "rightValue": "27 kg"
+    }
+  ]
+}

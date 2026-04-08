@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Crunches",
+  "rightName": "Decline Crunch",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-35 lb",
+      "rightValue": "-15 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+102 lb",
+      "rightValue": "+61 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+299 lb",
+      "rightValue": "+157 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+550 lb",
+      "rightValue": "+269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+840 lb",
+      "rightValue": "+392 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-48 lb",
+      "rightValue": "-37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+53 lb",
+      "rightValue": "+41 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+198 lb",
+      "rightValue": "+146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+383 lb",
+      "rightValue": "+275 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+598 lb",
+      "rightValue": "+421 lb"
+    }
+  ]
+}

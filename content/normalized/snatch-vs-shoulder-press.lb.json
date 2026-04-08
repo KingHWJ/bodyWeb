@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Snatch",
+  "rightName": "Shoulder Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "77 lb",
+      "rightValue": "66 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "117 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "168 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "227 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "293 lb",
+      "rightValue": "248 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 lb",
+      "rightValue": "28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 lb",
+      "rightValue": "48 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "95 lb",
+      "rightValue": "75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "129 lb",
+      "rightValue": "107 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "165 lb",
+      "rightValue": "143 lb"
+    }
+  ]
+}

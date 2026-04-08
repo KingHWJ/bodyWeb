@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Leg Extension",
+  "rightName": "Lying Leg Curl",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "35 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "61 kg",
+      "rightValue": "40 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "96 kg",
+      "rightValue": "64 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "139 kg",
+      "rightValue": "93 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "186 kg",
+      "rightValue": "126 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "18 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "34 kg",
+      "rightValue": "24 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "58 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "88 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "122 kg",
+      "rightValue": "74 kg"
+    }
+  ]
+}

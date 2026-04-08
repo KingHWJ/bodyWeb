@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sled Leg Press",
+  "rightName": "Pull Ups",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "86 kg",
+      "rightValue": "-13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 kg",
+      "rightValue": "+8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "226 kg",
+      "rightValue": "+34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "324 kg",
+      "rightValue": "+63 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "432 kg",
+      "rightValue": "+93 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "41 kg",
+      "rightValue": "-22 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "82 kg",
+      "rightValue": "-8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "141 kg",
+      "rightValue": "+10 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "214 kg",
+      "rightValue": "+30 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "299 kg",
+      "rightValue": "+51 kg"
+    }
+  ]
+}

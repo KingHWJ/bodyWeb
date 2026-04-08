@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hanging Knee Raise",
+  "rightName": "Sit Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-45 lb",
+      "rightValue": "-20 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+21 lb",
+      "rightValue": "+122 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+106 lb",
+      "rightValue": "+322 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+207 lb",
+      "rightValue": "+575 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+318 lb",
+      "rightValue": "+866 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-32 lb",
+      "rightValue": "-44 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+36 lb",
+      "rightValue": "+56 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+125 lb",
+      "rightValue": "+199 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+233 lb",
+      "rightValue": "+380 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+354 lb",
+      "rightValue": "+590 lb"
+    }
+  ]
+}

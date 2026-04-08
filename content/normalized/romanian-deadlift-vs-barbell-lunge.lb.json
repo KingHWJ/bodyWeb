@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Romanian Deadlift",
+  "rightName": "Barbell Lunge",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "121 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "185 lb",
+      "rightValue": "115 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "266 lb",
+      "rightValue": "181 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "361 lb",
+      "rightValue": "262 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "466 lb",
+      "rightValue": "353 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "63 lb",
+      "rightValue": "42 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "71 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "146 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "201 lb",
+      "rightValue": "157 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "262 lb",
+      "rightValue": "211 lb"
+    }
+  ]
+}

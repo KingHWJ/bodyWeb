@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Incline Bench Press",
+  "rightName": "Landmine Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "98 lb",
+      "rightValue": "40 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "142 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "196 lb",
+      "rightValue": "127 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "260 lb",
+      "rightValue": "191 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "329 lb",
+      "rightValue": "264 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "29 lb",
+      "rightValue": "9 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "58 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "97 lb",
+      "rightValue": "30 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "147 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "204 lb",
+      "rightValue": "63 lb"
+    }
+  ]
+}

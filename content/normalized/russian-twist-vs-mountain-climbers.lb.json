@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Russian Twist",
+  "rightName": "Mountain Climbers",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-34 lb",
+      "rightValue": "-39 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+80 lb",
+      "rightValue": "+71 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+240 lb",
+      "rightValue": "+224 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+440 lb",
+      "rightValue": "+415 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+669 lb",
+      "rightValue": "+633 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-31 lb",
+      "rightValue": "-30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+48 lb",
+      "rightValue": "+46 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+155 lb",
+      "rightValue": "+146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+285 lb",
+      "rightValue": "+269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+433 lb",
+      "rightValue": "+407 lb"
+    }
+  ]
+}

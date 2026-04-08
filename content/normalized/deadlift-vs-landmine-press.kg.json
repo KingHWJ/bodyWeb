@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deadlift",
+  "rightName": "Landmine Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "78 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "112 kg",
+      "rightValue": "35 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "152 kg",
+      "rightValue": "58 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "200 kg",
+      "rightValue": "87 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "250 kg",
+      "rightValue": "120 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "4 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "60 kg",
+      "rightValue": "8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "120 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "157 kg",
+      "rightValue": "29 kg"
+    }
+  ]
+}

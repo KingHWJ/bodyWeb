@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Clean And Jerk",
+  "rightName": "Thruster",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "97 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "145 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "204 lb",
+      "rightValue": "169 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "273 lb",
+      "rightValue": "240 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "349 lb",
+      "rightValue": "321 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "61 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "88 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "121 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "159 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "201 lb",
+      "rightValue": "178 lb"
+    }
+  ]
+}

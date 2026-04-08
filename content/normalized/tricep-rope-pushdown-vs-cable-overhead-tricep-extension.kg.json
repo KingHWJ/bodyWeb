@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Tricep Rope Pushdown",
+  "rightName": "Cable Overhead Tricep Extension",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "28 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "47 kg",
+      "rightValue": "42 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "71 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "98 kg",
+      "rightValue": "97 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 kg",
+      "rightValue": "5 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "15 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "26 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "40 kg",
+      "rightValue": "37 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "56 kg",
+      "rightValue": "54 kg"
+    }
+  ]
+}

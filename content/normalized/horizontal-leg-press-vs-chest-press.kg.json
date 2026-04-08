@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Horizontal Leg Press",
+  "rightName": "Chest Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "71 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "123 kg",
+      "rightValue": "57 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "193 kg",
+      "rightValue": "90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "278 kg",
+      "rightValue": "131 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "375 kg",
+      "rightValue": "177 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "37 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "71 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "117 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "175 kg",
+      "rightValue": "59 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "241 kg",
+      "rightValue": "84 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Crunches",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-2 kg",
+      "rightValue": "-16 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+43 kg",
+      "rightValue": "+46 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+101 kg",
+      "rightValue": "+136 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+171 kg",
+      "rightValue": "+249 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+248 kg",
+      "rightValue": "+381 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 kg",
+      "rightValue": "-22 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+8 kg",
+      "rightValue": "+24 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+38 kg",
+      "rightValue": "+90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+74 kg",
+      "rightValue": "+174 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+114 kg",
+      "rightValue": "+271 kg"
+    }
+  ]
+}

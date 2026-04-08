@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Reverse Crunches",
+  "rightName": "Hanging Leg Raise",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-22 lb",
+      "rightValue": "-40 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+64 lb",
+      "rightValue": "+20 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+174 lb",
+      "rightValue": "+95 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+307 lb",
+      "rightValue": "+182 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+453 lb",
+      "rightValue": "+278 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-41 lb",
+      "rightValue": "-30 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+20 lb",
+      "rightValue": "+13 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+100 lb",
+      "rightValue": "+66 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+195 lb",
+      "rightValue": "+126 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+302 lb",
+      "rightValue": "+192 lb"
+    }
+  ]
+}

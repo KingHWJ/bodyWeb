@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Snatch",
+  "rightName": "Thruster",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "24 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "46 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "76 lb",
+      "rightValue": "169 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 lb",
+      "rightValue": "240 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "159 lb",
+      "rightValue": "321 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "25 lb",
+      "rightValue": "68 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 lb",
+      "rightValue": "137 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "93 lb",
+      "rightValue": "178 lb"
+    }
+  ]
+}

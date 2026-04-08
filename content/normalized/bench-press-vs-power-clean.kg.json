@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Press",
+  "rightName": "Power Clean",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "46 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "98 kg",
+      "rightValue": "92 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "132 kg",
+      "rightValue": "121 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "169 kg",
+      "rightValue": "152 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "17 kg",
+      "rightValue": "27 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 kg",
+      "rightValue": "39 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "51 kg",
+      "rightValue": "54 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "74 kg",
+      "rightValue": "71 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "101 kg",
+      "rightValue": "90 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lunge",
+  "rightName": "Glute Bridge",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-25 kg",
+      "rightValue": "-37 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+24 kg",
+      "rightValue": "+15 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+95 kg",
+      "rightValue": "+92 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+184 kg",
+      "rightValue": "+194 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+286 kg",
+      "rightValue": "+313 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 kg",
+      "rightValue": "-23 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+15 kg",
+      "rightValue": "+13 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+58 kg",
+      "rightValue": "+63 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+111 kg",
+      "rightValue": "+127 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+170 kg",
+      "rightValue": "+199 kg"
+    }
+  ]
+}

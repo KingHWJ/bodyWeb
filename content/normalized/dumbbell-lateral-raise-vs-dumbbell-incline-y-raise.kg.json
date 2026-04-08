@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Lateral Raise",
+  "rightName": "Dumbbell Incline Y Raise",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 kg",
+      "rightValue": "3 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "8 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "15 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "25 kg",
+      "rightValue": "40 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "36 kg",
+      "rightValue": "61 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "3 kg",
+      "rightValue": "2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "5 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "9 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "14 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "20 kg",
+      "rightValue": "29 kg"
+    }
+  ]
+}

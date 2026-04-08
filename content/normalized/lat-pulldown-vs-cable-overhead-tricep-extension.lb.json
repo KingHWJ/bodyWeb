@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lat Pulldown",
+  "rightName": "Cable Overhead Tricep Extension",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "85 lb",
+      "rightValue": "22 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "127 lb",
+      "rightValue": "50 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "180 lb",
+      "rightValue": "93 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "243 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "312 lb",
+      "rightValue": "214 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "43 lb",
+      "rightValue": "11 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "68 lb",
+      "rightValue": "27 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "101 lb",
+      "rightValue": "51 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "140 lb",
+      "rightValue": "82 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "184 lb",
+      "rightValue": "119 lb"
+    }
+  ]
+}

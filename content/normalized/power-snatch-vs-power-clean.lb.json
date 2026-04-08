@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Power Snatch",
+  "rightName": "Power Clean",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "72 lb",
+      "rightValue": "102 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "110 lb",
+      "rightValue": "147 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "159 lb",
+      "rightValue": "202 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "218 lb",
+      "rightValue": "266 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "282 lb",
+      "rightValue": "336 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "43 lb",
+      "rightValue": "60 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "64 lb",
+      "rightValue": "86 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "91 lb",
+      "rightValue": "119 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "123 lb",
+      "rightValue": "156 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "157 lb",
+      "rightValue": "197 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lat Pulldown",
+  "rightName": "Seated Cable Row",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "41 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "58 kg",
+      "rightValue": "61 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "82 kg",
+      "rightValue": "86 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "110 kg",
+      "rightValue": "115 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "141 kg",
+      "rightValue": "147 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "19 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "31 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "64 kg",
+      "rightValue": "66 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "83 kg",
+      "rightValue": "86 kg"
+    }
+  ]
+}

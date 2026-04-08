@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Toes To Bar",
+  "rightName": "Pull Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-45 lb",
+      "rightValue": "-28 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+12 lb",
+      "rightValue": "+18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+85 lb",
+      "rightValue": "+75 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+169 lb",
+      "rightValue": "+138 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+262 lb",
+      "rightValue": "+206 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-35 lb",
+      "rightValue": "-48 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+2 lb",
+      "rightValue": "-17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+46 lb",
+      "rightValue": "+22 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+96 lb",
+      "rightValue": "+65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+150 lb",
+      "rightValue": "+112 lb"
+    }
+  ]
+}

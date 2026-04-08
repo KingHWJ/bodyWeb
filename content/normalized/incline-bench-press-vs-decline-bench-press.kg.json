@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Incline Bench Press",
+  "rightName": "Decline Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "64 kg",
+      "rightValue": "75 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "89 kg",
+      "rightValue": "106 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "118 kg",
+      "rightValue": "142 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "149 kg",
+      "rightValue": "181 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "26 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "44 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 kg",
+      "rightValue": "82 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "93 kg",
+      "rightValue": "112 kg"
+    }
+  ]
+}

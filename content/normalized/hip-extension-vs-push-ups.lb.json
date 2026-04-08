@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hip Extension",
+  "rightName": "Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-25 lb",
+      "rightValue": "-4 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+67 lb",
+      "rightValue": "+95 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+188 lb",
+      "rightValue": "+223 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+335 lb",
+      "rightValue": "+377 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+500 lb",
+      "rightValue": "+547 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-31 lb",
+      "rightValue": "-37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+37 lb",
+      "rightValue": "+16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+125 lb",
+      "rightValue": "+84 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+232 lb",
+      "rightValue": "+164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+351 lb",
+      "rightValue": "+251 lb"
+    }
+  ]
+}

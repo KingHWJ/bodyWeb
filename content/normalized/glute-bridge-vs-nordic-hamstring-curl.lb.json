@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Glute Bridge",
+  "rightName": "Nordic Hamstring Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-82 lb",
+      "rightValue": "-73 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+32 lb",
+      "rightValue": "-16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+203 lb",
+      "rightValue": "+58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+427 lb",
+      "rightValue": "+146 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+690 lb",
+      "rightValue": "+243 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-51 lb",
+      "rightValue": "-43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+28 lb",
+      "rightValue": "+6 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+140 lb",
+      "rightValue": "+69 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+279 lb",
+      "rightValue": "+143 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+439 lb",
+      "rightValue": "+224 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Close Grip Push Up",
+  "rightName": "Diamond Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-35 lb",
+      "rightValue": "-31 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+51 lb",
+      "rightValue": "+37 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+166 lb",
+      "rightValue": "+124 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+304 lb",
+      "rightValue": "+226 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+459 lb",
+      "rightValue": "+339 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-69 lb",
+      "rightValue": "-78 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-11 lb",
+      "rightValue": "-22 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+71 lb",
+      "rightValue": "+57 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+172 lb",
+      "rightValue": "+157 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+288 lb",
+      "rightValue": "+272 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "One Arm Push Ups",
+  "rightName": "Handstand Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-81 lb",
+      "rightValue": "-80 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-23 lb",
+      "rightValue": "-19 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+55 lb",
+      "rightValue": "+63 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+150 lb",
+      "rightValue": "+163 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+257 lb",
+      "rightValue": "+275 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-107 lb",
+      "rightValue": "-55 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-52 lb",
+      "rightValue": "-14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+36 lb",
+      "rightValue": "+37 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+154 lb",
+      "rightValue": "+98 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+296 lb",
+      "rightValue": "+165 lb"
+    }
+  ]
+}

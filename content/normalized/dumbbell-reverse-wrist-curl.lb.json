@@ -1,0 +1,669 @@
+{
+  "kind": "exercise",
+  "exerciseName": "Dumbbell Reverse Wrist Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "value": "4 lb"
+    },
+    {
+      "level": "Novice",
+      "value": "18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "value": "44 lb"
+    },
+    {
+      "level": "Advanced",
+      "value": "81 lb"
+    },
+    {
+      "level": "Elite",
+      "value": "127 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "value": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "value": "15 lb"
+    },
+    {
+      "level": "Intermediate",
+      "value": "27 lb"
+    },
+    {
+      "level": "Advanced",
+      "value": "42 lb"
+    },
+    {
+      "level": "Elite",
+      "value": "59 lb"
+    }
+  ],
+  "maleBodyweightRatio": [
+    {
+      "level": "Beginner",
+      "value": "0.00x"
+    },
+    {
+      "level": "Novice",
+      "value": "0.10x"
+    },
+    {
+      "level": "Intermediate",
+      "value": "0.25x"
+    },
+    {
+      "level": "Advanced",
+      "value": "0.50x"
+    },
+    {
+      "level": "Elite",
+      "value": "0.75x"
+    }
+  ],
+  "femaleBodyweightRatio": [
+    {
+      "level": "Beginner",
+      "value": "0.05x"
+    },
+    {
+      "level": "Novice",
+      "value": "0.10x"
+    },
+    {
+      "level": "Intermediate",
+      "value": "0.20x"
+    },
+    {
+      "level": "Advanced",
+      "value": "0.30x"
+    },
+    {
+      "level": "Elite",
+      "value": "0.40x"
+    }
+  ],
+  "maleByBodyweight": [
+    {
+      "label": "110",
+      "beginner": "2",
+      "novice": "12",
+      "intermediate": "35",
+      "advanced": "68",
+      "elite": "111"
+    },
+    {
+      "label": "120",
+      "beginner": "2",
+      "novice": "13",
+      "intermediate": "36",
+      "advanced": "71",
+      "elite": "114"
+    },
+    {
+      "label": "130",
+      "beginner": "2",
+      "novice": "14",
+      "intermediate": "38",
+      "advanced": "73",
+      "elite": "117"
+    },
+    {
+      "label": "140",
+      "beginner": "3",
+      "novice": "15",
+      "intermediate": "40",
+      "advanced": "75",
+      "elite": "119"
+    },
+    {
+      "label": "150",
+      "beginner": "3",
+      "novice": "16",
+      "intermediate": "41",
+      "advanced": "77",
+      "elite": "122"
+    },
+    {
+      "label": "160",
+      "beginner": "4",
+      "novice": "17",
+      "intermediate": "43",
+      "advanced": "79",
+      "elite": "124"
+    },
+    {
+      "label": "170",
+      "beginner": "4",
+      "novice": "18",
+      "intermediate": "44",
+      "advanced": "81",
+      "elite": "127"
+    },
+    {
+      "label": "180",
+      "beginner": "4",
+      "novice": "19",
+      "intermediate": "45",
+      "advanced": "83",
+      "elite": "129"
+    },
+    {
+      "label": "190",
+      "beginner": "5",
+      "novice": "20",
+      "intermediate": "46",
+      "advanced": "84",
+      "elite": "131"
+    },
+    {
+      "label": "200",
+      "beginner": "5",
+      "novice": "21",
+      "intermediate": "48",
+      "advanced": "86",
+      "elite": "133"
+    },
+    {
+      "label": "210",
+      "beginner": "6",
+      "novice": "21",
+      "intermediate": "49",
+      "advanced": "87",
+      "elite": "135"
+    },
+    {
+      "label": "220",
+      "beginner": "6",
+      "novice": "22",
+      "intermediate": "50",
+      "advanced": "89",
+      "elite": "137"
+    },
+    {
+      "label": "230",
+      "beginner": "6",
+      "novice": "23",
+      "intermediate": "51",
+      "advanced": "90",
+      "elite": "138"
+    },
+    {
+      "label": "240",
+      "beginner": "7",
+      "novice": "23",
+      "intermediate": "52",
+      "advanced": "92",
+      "elite": "140"
+    },
+    {
+      "label": "250",
+      "beginner": "7",
+      "novice": "24",
+      "intermediate": "53",
+      "advanced": "93",
+      "elite": "142"
+    },
+    {
+      "label": "260",
+      "beginner": "7",
+      "novice": "25",
+      "intermediate": "54",
+      "advanced": "94",
+      "elite": "143"
+    },
+    {
+      "label": "270",
+      "beginner": "8",
+      "novice": "25",
+      "intermediate": "55",
+      "advanced": "96",
+      "elite": "145"
+    },
+    {
+      "label": "280",
+      "beginner": "8",
+      "novice": "26",
+      "intermediate": "56",
+      "advanced": "97",
+      "elite": "146"
+    },
+    {
+      "label": "290",
+      "beginner": "8",
+      "novice": "27",
+      "intermediate": "57",
+      "advanced": "98",
+      "elite": "148"
+    },
+    {
+      "label": "300",
+      "beginner": "9",
+      "novice": "27",
+      "intermediate": "58",
+      "advanced": "99",
+      "elite": "149"
+    },
+    {
+      "label": "310",
+      "beginner": "9",
+      "novice": "28",
+      "intermediate": "58",
+      "advanced": "100",
+      "elite": "151"
+    }
+  ],
+  "femaleByBodyweight": [
+    {
+      "label": "90",
+      "beginner": "3",
+      "novice": "9",
+      "intermediate": "17",
+      "advanced": "29",
+      "elite": "43"
+    },
+    {
+      "label": "100",
+      "beginner": "4",
+      "novice": "10",
+      "intermediate": "19",
+      "advanced": "31",
+      "elite": "46"
+    },
+    {
+      "label": "110",
+      "beginner": "5",
+      "novice": "12",
+      "intermediate": "21",
+      "advanced": "34",
+      "elite": "49"
+    },
+    {
+      "label": "120",
+      "beginner": "6",
+      "novice": "13",
+      "intermediate": "23",
+      "advanced": "36",
+      "elite": "51"
+    },
+    {
+      "label": "130",
+      "beginner": "7",
+      "novice": "14",
+      "intermediate": "25",
+      "advanced": "38",
+      "elite": "54"
+    },
+    {
+      "label": "140",
+      "beginner": "8",
+      "novice": "16",
+      "intermediate": "27",
+      "advanced": "40",
+      "elite": "56"
+    },
+    {
+      "label": "150",
+      "beginner": "9",
+      "novice": "17",
+      "intermediate": "28",
+      "advanced": "42",
+      "elite": "59"
+    },
+    {
+      "label": "160",
+      "beginner": "10",
+      "novice": "18",
+      "intermediate": "30",
+      "advanced": "44",
+      "elite": "61"
+    },
+    {
+      "label": "170",
+      "beginner": "11",
+      "novice": "19",
+      "intermediate": "31",
+      "advanced": "46",
+      "elite": "63"
+    },
+    {
+      "label": "180",
+      "beginner": "11",
+      "novice": "20",
+      "intermediate": "33",
+      "advanced": "48",
+      "elite": "65"
+    },
+    {
+      "label": "190",
+      "beginner": "12",
+      "novice": "22",
+      "intermediate": "34",
+      "advanced": "50",
+      "elite": "67"
+    },
+    {
+      "label": "200",
+      "beginner": "13",
+      "novice": "23",
+      "intermediate": "35",
+      "advanced": "51",
+      "elite": "69"
+    },
+    {
+      "label": "210",
+      "beginner": "14",
+      "novice": "24",
+      "intermediate": "37",
+      "advanced": "53",
+      "elite": "71"
+    },
+    {
+      "label": "220",
+      "beginner": "15",
+      "novice": "25",
+      "intermediate": "38",
+      "advanced": "54",
+      "elite": "72"
+    },
+    {
+      "label": "230",
+      "beginner": "15",
+      "novice": "26",
+      "intermediate": "39",
+      "advanced": "56",
+      "elite": "74"
+    },
+    {
+      "label": "240",
+      "beginner": "16",
+      "novice": "27",
+      "intermediate": "40",
+      "advanced": "57",
+      "elite": "76"
+    },
+    {
+      "label": "250",
+      "beginner": "17",
+      "novice": "28",
+      "intermediate": "42",
+      "advanced": "59",
+      "elite": "77"
+    },
+    {
+      "label": "260",
+      "beginner": "18",
+      "novice": "29",
+      "intermediate": "43",
+      "advanced": "60",
+      "elite": "79"
+    }
+  ],
+  "maleByAge": [
+    {
+      "label": "15",
+      "beginner": "3",
+      "novice": "15",
+      "intermediate": "37",
+      "advanced": "69",
+      "elite": "108"
+    },
+    {
+      "label": "20",
+      "beginner": "4",
+      "novice": "17",
+      "intermediate": "43",
+      "advanced": "79",
+      "elite": "124"
+    },
+    {
+      "label": "25",
+      "beginner": "4",
+      "novice": "18",
+      "intermediate": "44",
+      "advanced": "81",
+      "elite": "127"
+    },
+    {
+      "label": "30",
+      "beginner": "4",
+      "novice": "18",
+      "intermediate": "44",
+      "advanced": "81",
+      "elite": "127"
+    },
+    {
+      "label": "35",
+      "beginner": "4",
+      "novice": "18",
+      "intermediate": "44",
+      "advanced": "81",
+      "elite": "127"
+    },
+    {
+      "label": "40",
+      "beginner": "4",
+      "novice": "18",
+      "intermediate": "44",
+      "advanced": "81",
+      "elite": "127"
+    },
+    {
+      "label": "45",
+      "beginner": "4",
+      "novice": "17",
+      "intermediate": "41",
+      "advanced": "77",
+      "elite": "120"
+    },
+    {
+      "label": "50",
+      "beginner": "3",
+      "novice": "16",
+      "intermediate": "39",
+      "advanced": "72",
+      "elite": "113"
+    },
+    {
+      "label": "55",
+      "beginner": "3",
+      "novice": "15",
+      "intermediate": "36",
+      "advanced": "66",
+      "elite": "104"
+    },
+    {
+      "label": "60",
+      "beginner": "3",
+      "novice": "13",
+      "intermediate": "33",
+      "advanced": "60",
+      "elite": "95"
+    },
+    {
+      "label": "65",
+      "beginner": "3",
+      "novice": "12",
+      "intermediate": "30",
+      "advanced": "55",
+      "elite": "86"
+    },
+    {
+      "label": "70",
+      "beginner": "2",
+      "novice": "11",
+      "intermediate": "27",
+      "advanced": "49",
+      "elite": "77"
+    },
+    {
+      "label": "75",
+      "beginner": "2",
+      "novice": "10",
+      "intermediate": "24",
+      "advanced": "44",
+      "elite": "69"
+    },
+    {
+      "label": "80",
+      "beginner": "2",
+      "novice": "9",
+      "intermediate": "21",
+      "advanced": "40",
+      "elite": "62"
+    },
+    {
+      "label": "85",
+      "beginner": "2",
+      "novice": "8",
+      "intermediate": "19",
+      "advanced": "35",
+      "elite": "56"
+    },
+    {
+      "label": "90",
+      "beginner": "2",
+      "novice": "7",
+      "intermediate": "17",
+      "advanced": "32",
+      "elite": "50"
+    }
+  ],
+  "femaleByAge": [
+    {
+      "label": "15",
+      "beginner": "6",
+      "novice": "13",
+      "intermediate": "23",
+      "advanced": "35",
+      "elite": "50"
+    },
+    {
+      "label": "20",
+      "beginner": "7",
+      "novice": "15",
+      "intermediate": "26",
+      "advanced": "41",
+      "elite": "57"
+    },
+    {
+      "label": "25",
+      "beginner": "7",
+      "novice": "15",
+      "intermediate": "27",
+      "advanced": "42",
+      "elite": "59"
+    },
+    {
+      "label": "30",
+      "beginner": "7",
+      "novice": "15",
+      "intermediate": "27",
+      "advanced": "42",
+      "elite": "59"
+    },
+    {
+      "label": "35",
+      "beginner": "7",
+      "novice": "15",
+      "intermediate": "27",
+      "advanced": "42",
+      "elite": "59"
+    },
+    {
+      "label": "40",
+      "beginner": "7",
+      "novice": "15",
+      "intermediate": "27",
+      "advanced": "42",
+      "elite": "59"
+    },
+    {
+      "label": "45",
+      "beginner": "7",
+      "novice": "15",
+      "intermediate": "26",
+      "advanced": "39",
+      "elite": "55"
+    },
+    {
+      "label": "50",
+      "beginner": "7",
+      "novice": "14",
+      "intermediate": "24",
+      "advanced": "37",
+      "elite": "52"
+    },
+    {
+      "label": "55",
+      "beginner": "6",
+      "novice": "13",
+      "intermediate": "22",
+      "advanced": "34",
+      "elite": "48"
+    },
+    {
+      "label": "60",
+      "beginner": "6",
+      "novice": "12",
+      "intermediate": "20",
+      "advanced": "31",
+      "elite": "44"
+    },
+    {
+      "label": "65",
+      "beginner": "5",
+      "novice": "10",
+      "intermediate": "18",
+      "advanced": "28",
+      "elite": "40"
+    },
+    {
+      "label": "70",
+      "beginner": "5",
+      "novice": "9",
+      "intermediate": "16",
+      "advanced": "25",
+      "elite": "36"
+    },
+    {
+      "label": "75",
+      "beginner": "4",
+      "novice": "8",
+      "intermediate": "15",
+      "advanced": "23",
+      "elite": "32"
+    },
+    {
+      "label": "80",
+      "beginner": "4",
+      "novice": "8",
+      "intermediate": "13",
+      "advanced": "20",
+      "elite": "29"
+    },
+    {
+      "label": "85",
+      "beginner": "3",
+      "novice": "7",
+      "intermediate": "12",
+      "advanced": "18",
+      "elite": "26"
+    },
+    {
+      "label": "90",
+      "beginner": "3",
+      "novice": "6",
+      "intermediate": "11",
+      "advanced": "16",
+      "elite": "23"
+    }
+  ]
+}

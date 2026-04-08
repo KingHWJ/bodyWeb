@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Mountain Climbers",
+  "rightName": "Jumping Jack",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-18 kg",
+      "rightValue": "-57 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+32 kg",
+      "rightValue": "+38 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+102 kg",
+      "rightValue": "+223 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+188 kg",
+      "rightValue": "+495 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+287 kg",
+      "rightValue": "+835 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-13 kg",
+      "rightValue": "-15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+21 kg",
+      "rightValue": "+29 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+66 kg",
+      "rightValue": "+90 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+122 kg",
+      "rightValue": "+167 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+184 kg",
+      "rightValue": "+255 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sissy Squat",
+  "rightName": "Pistol Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-109 lb",
+      "rightValue": "-51 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-6 lb",
+      "rightValue": "+2 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+153 lb",
+      "rightValue": "+68 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+364 lb",
+      "rightValue": "+145 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+614 lb",
+      "rightValue": "+230 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-48 lb",
+      "rightValue": "-39 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-11 lb",
+      "rightValue": "-3 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+34 lb",
+      "rightValue": "+42 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+86 lb",
+      "rightValue": "+93 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+142 lb",
+      "rightValue": "+147 lb"
+    }
+  ]
+}

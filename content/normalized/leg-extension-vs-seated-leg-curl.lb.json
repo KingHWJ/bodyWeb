@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Leg Extension",
+  "rightName": "Seated Leg Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "78 lb",
+      "rightValue": "64 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "135 lb",
+      "rightValue": "111 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "212 lb",
+      "rightValue": "174 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "306 lb",
+      "rightValue": "252 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "411 lb",
+      "rightValue": "338 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "39 lb",
+      "rightValue": "35 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "76 lb",
+      "rightValue": "64 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "128 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "193 lb",
+      "rightValue": "155 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "268 lb",
+      "rightValue": "212 lb"
+    }
+  ]
+}

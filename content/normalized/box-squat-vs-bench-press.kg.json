@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Box Squat",
+  "rightName": "Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "69 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "106 kg",
+      "rightValue": "70 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "153 kg",
+      "rightValue": "98 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "209 kg",
+      "rightValue": "132 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "270 kg",
+      "rightValue": "169 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "38 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "59 kg",
+      "rightValue": "31 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "87 kg",
+      "rightValue": "51 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "120 kg",
+      "rightValue": "74 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "156 kg",
+      "rightValue": "101 kg"
+    }
+  ]
+}

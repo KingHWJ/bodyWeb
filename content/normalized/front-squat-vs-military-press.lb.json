@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Front Squat",
+  "rightName": "Military Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "120 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "170 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "232 lb",
+      "rightValue": "142 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "303 lb",
+      "rightValue": "189 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "379 lb",
+      "rightValue": "241 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "67 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "98 lb",
+      "rightValue": "50 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "137 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "183 lb",
+      "rightValue": "106 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "232 lb",
+      "rightValue": "140 lb"
+    }
+  ]
+}

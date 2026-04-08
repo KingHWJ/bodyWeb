@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hip Adduction",
+  "rightName": "Hip Abduction",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "32 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "64 kg",
+      "rightValue": "59 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "109 kg",
+      "rightValue": "101 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "167 kg",
+      "rightValue": "153 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "233 kg",
+      "rightValue": "213 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "43 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "71 kg",
+      "rightValue": "74 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "107 kg",
+      "rightValue": "110 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "152 kg"
+    }
+  ]
+}

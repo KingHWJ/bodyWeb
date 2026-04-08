@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Single Leg Press",
+  "rightName": "Machine Shoulder Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "73 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "170 lb",
+      "rightValue": "102 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "314 lb",
+      "rightValue": "170 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "502 lb",
+      "rightValue": "254 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "722 lb",
+      "rightValue": "350 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "45 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "99 lb",
+      "rightValue": "40 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "177 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "279 lb",
+      "rightValue": "122 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "397 lb",
+      "rightValue": "177 lb"
+    }
+  ]
+}

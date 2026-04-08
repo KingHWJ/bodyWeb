@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deficit Deadlift",
+  "rightName": "Romanian Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "199 lb",
+      "rightValue": "121 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "274 lb",
+      "rightValue": "185 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "366 lb",
+      "rightValue": "266 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "472 lb",
+      "rightValue": "361 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "584 lb",
+      "rightValue": "466 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "74 lb",
+      "rightValue": "63 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "116 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "169 lb",
+      "rightValue": "146 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "233 lb",
+      "rightValue": "201 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "303 lb",
+      "rightValue": "262 lb"
+    }
+  ]
+}

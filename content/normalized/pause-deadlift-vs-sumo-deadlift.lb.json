@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pause Deadlift",
+  "rightName": "Sumo Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "205 lb",
+      "rightValue": "192 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "277 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "363 lb",
+      "rightValue": "363 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "461 lb",
+      "rightValue": "471 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "566 lb",
+      "rightValue": "587 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "51 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "89 lb",
+      "rightValue": "150 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "141 lb",
+      "rightValue": "205 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "204 lb",
+      "rightValue": "269 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "275 lb",
+      "rightValue": "339 lb"
+    }
+  ]
+}

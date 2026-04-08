@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Lunge",
+  "rightName": "Zercher Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "65 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "115 lb",
+      "rightValue": "173 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "181 lb",
+      "rightValue": "253 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "262 lb",
+      "rightValue": "349 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "353 lb",
+      "rightValue": "454 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "42 lb",
+      "rightValue": "53 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "71 lb",
+      "rightValue": "91 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "110 lb",
+      "rightValue": "141 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "157 lb",
+      "rightValue": "202 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "211 lb",
+      "rightValue": "271 lb"
+    }
+  ]
+}

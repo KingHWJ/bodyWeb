@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Toes To Bar",
+  "rightName": "Hanging Leg Raise",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-21 kg",
+      "rightValue": "-18 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+6 kg",
+      "rightValue": "+9 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+39 kg",
+      "rightValue": "+43 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+77 kg",
+      "rightValue": "+83 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+119 kg",
+      "rightValue": "+126 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-16 kg",
+      "rightValue": "-13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+1 kg",
+      "rightValue": "+6 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+21 kg",
+      "rightValue": "+30 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+44 kg",
+      "rightValue": "+57 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+68 kg",
+      "rightValue": "+87 kg"
+    }
+  ]
+}

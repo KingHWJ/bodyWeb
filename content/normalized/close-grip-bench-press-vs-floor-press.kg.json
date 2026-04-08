@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Close Grip Bench Press",
+  "rightName": "Floor Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "38 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "68 kg",
+      "rightValue": "63 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "93 kg",
+      "rightValue": "97 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "123 kg",
+      "rightValue": "138 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "155 kg",
+      "rightValue": "183 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "20 kg",
+      "rightValue": "15 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "33 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "49 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "69 kg",
+      "rightValue": "76 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "91 kg",
+      "rightValue": "105 kg"
+    }
+  ]
+}

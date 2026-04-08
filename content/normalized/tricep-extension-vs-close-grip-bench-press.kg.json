@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Tricep Extension",
+  "rightName": "Close Grip Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "12 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "27 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "49 kg",
+      "rightValue": "93 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "78 kg",
+      "rightValue": "123 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "111 kg",
+      "rightValue": "155 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 kg",
+      "rightValue": "20 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "11 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "23 kg",
+      "rightValue": "49 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "38 kg",
+      "rightValue": "69 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "56 kg",
+      "rightValue": "91 kg"
+    }
+  ]
+}

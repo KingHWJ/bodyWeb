@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Machine Tricep Extension",
+  "rightName": "Seated Dip Machine",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "23 kg",
+      "rightValue": "36 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "40 kg",
+      "rightValue": "65 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "64 kg",
+      "rightValue": "105 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "94 kg",
+      "rightValue": "155 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "127 kg",
+      "rightValue": "211 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "22 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "13 kg",
+      "rightValue": "36 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "23 kg",
+      "rightValue": "56 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "36 kg",
+      "rightValue": "80 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "51 kg",
+      "rightValue": "106 kg"
+    }
+  ]
+}

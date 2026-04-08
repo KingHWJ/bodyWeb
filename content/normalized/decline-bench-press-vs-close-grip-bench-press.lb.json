@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Decline Bench Press",
+  "rightName": "Close Grip Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "111 lb",
+      "rightValue": "104 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "165 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "233 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "312 lb",
+      "rightValue": "271 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "399 lb",
+      "rightValue": "342 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "39 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "74 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "121 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "180 lb",
+      "rightValue": "153 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "247 lb",
+      "rightValue": "202 lb"
+    }
+  ]
+}

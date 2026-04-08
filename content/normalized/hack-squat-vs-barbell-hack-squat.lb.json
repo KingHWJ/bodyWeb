@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hack Squat",
+  "rightName": "Barbell Hack Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "119 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "215 lb",
+      "rightValue": "183 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "347 lb",
+      "rightValue": "278 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "510 lb",
+      "rightValue": "393 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "694 lb",
+      "rightValue": "522 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "49 lb",
+      "rightValue": "42 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "112 lb",
+      "rightValue": "69 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "207 lb",
+      "rightValue": "105 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "329 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "473 lb",
+      "rightValue": "196 lb"
+    }
+  ]
+}

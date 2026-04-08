@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Ups",
+  "rightName": "Muscle Ups",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-2 kg",
+      "rightValue": "-19 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+43 kg",
+      "rightValue": "-4 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+101 kg",
+      "rightValue": "+13 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+171 kg",
+      "rightValue": "+33 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+248 kg",
+      "rightValue": "+53 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-17 kg",
+      "rightValue": "-19 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+8 kg",
+      "rightValue": "-8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+38 kg",
+      "rightValue": "+6 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+74 kg",
+      "rightValue": "+22 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+114 kg",
+      "rightValue": "+38 kg"
+    }
+  ]
+}

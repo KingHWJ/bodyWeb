@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Pendlay Row",
+  "rightName": "Stiff Leg Deadlift",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "47 kg",
+      "rightValue": "54 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "67 kg",
+      "rightValue": "84 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "91 kg",
+      "rightValue": "124 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "118 kg",
+      "rightValue": "171 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "148 kg",
+      "rightValue": "223 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "25 kg",
+      "rightValue": "28 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "37 kg",
+      "rightValue": "45 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "52 kg",
+      "rightValue": "67 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "69 kg",
+      "rightValue": "94 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "88 kg",
+      "rightValue": "124 kg"
+    }
+  ]
+}

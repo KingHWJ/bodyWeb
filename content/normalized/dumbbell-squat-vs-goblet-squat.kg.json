@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Squat",
+  "rightName": "Goblet Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "10 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "20 kg",
+      "rightValue": "26 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "34 kg",
+      "rightValue": "42 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "52 kg",
+      "rightValue": "63 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "72 kg",
+      "rightValue": "87 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "21 kg",
+      "rightValue": "26 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "33 kg",
+      "rightValue": "39 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "47 kg",
+      "rightValue": "52 kg"
+    }
+  ]
+}

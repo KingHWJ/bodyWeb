@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Upright Row",
+  "rightName": "Dumbbell Reverse Fly",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "5 kg",
+      "rightValue": "2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "13 kg",
+      "rightValue": "8 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "26 kg",
+      "rightValue": "18 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "43 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "64 kg",
+      "rightValue": "48 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "5 kg",
+      "rightValue": "2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "10 kg",
+      "rightValue": "5 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "16 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "24 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "33 kg",
+      "rightValue": "25 kg"
+    }
+  ]
+}

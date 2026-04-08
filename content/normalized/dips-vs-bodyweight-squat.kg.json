@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dips",
+  "rightName": "Bodyweight Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-8 kg",
+      "rightValue": "-31 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+18 kg",
+      "rightValue": "+38 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+50 kg",
+      "rightValue": "+144 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+86 kg",
+      "rightValue": "+285 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+125 kg",
+      "rightValue": "+451 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-20 kg",
+      "rightValue": "-32 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "-3 kg",
+      "rightValue": "+14 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+19 kg",
+      "rightValue": "+82 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+45 kg",
+      "rightValue": "+172 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+72 kg",
+      "rightValue": "+278 kg"
+    }
+  ]
+}

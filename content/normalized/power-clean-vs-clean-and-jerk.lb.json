@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Power Clean",
+  "rightName": "Clean And Jerk",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "102 lb",
+      "rightValue": "97 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 lb",
+      "rightValue": "145 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "202 lb",
+      "rightValue": "204 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "266 lb",
+      "rightValue": "273 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "336 lb",
+      "rightValue": "349 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "60 lb",
+      "rightValue": "61 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "86 lb",
+      "rightValue": "88 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "119 lb",
+      "rightValue": "121 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "156 lb",
+      "rightValue": "159 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "197 lb",
+      "rightValue": "201 lb"
+    }
+  ]
+}

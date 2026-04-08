@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Push Press",
+  "rightName": "Clean And Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "37 kg",
+      "rightValue": "36 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "57 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "83 kg",
+      "rightValue": "80 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "114 kg",
+      "rightValue": "109 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "147 kg",
+      "rightValue": "141 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 kg",
+      "rightValue": "16 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "33 kg",
+      "rightValue": "27 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "46 kg",
+      "rightValue": "42 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "62 kg",
+      "rightValue": "60 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "80 kg",
+      "rightValue": "80 kg"
+    }
+  ]
+}

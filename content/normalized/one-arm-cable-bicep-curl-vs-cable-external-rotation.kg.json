@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "One Arm Cable Bicep Curl",
+  "rightName": "Cable External Rotation",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "3 kg",
+      "rightValue": "2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "13 kg",
+      "rightValue": "9 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "33 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "61 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "95 kg",
+      "rightValue": "51 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "1 kg",
+      "rightValue": "2 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "6 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "16 kg",
+      "rightValue": "13 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "31 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "50 kg",
+      "rightValue": "34 kg"
+    }
+  ]
+}

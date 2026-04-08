@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Sled Press Calf Raise",
+  "rightName": "Horizontal Leg Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "106 lb",
+      "rightValue": "156 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "244 lb",
+      "rightValue": "271 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "449 lb",
+      "rightValue": "425 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "716 lb",
+      "rightValue": "614 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "1029 lb",
+      "rightValue": "826 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "27 lb",
+      "rightValue": "82 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "75 lb",
+      "rightValue": "156 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "152 lb",
+      "rightValue": "258 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "255 lb",
+      "rightValue": "386 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "379 lb",
+      "rightValue": "532 lb"
+    }
+  ]
+}

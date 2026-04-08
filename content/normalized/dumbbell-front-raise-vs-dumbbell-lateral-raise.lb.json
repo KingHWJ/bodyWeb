@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Front Raise",
+  "rightName": "Dumbbell Lateral Raise",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "7 lb",
+      "rightValue": "8 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "19 lb",
+      "rightValue": "18 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "39 lb",
+      "rightValue": "34 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "66 lb",
+      "rightValue": "54 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "98 lb",
+      "rightValue": "79 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 lb",
+      "rightValue": "6 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "11 lb",
+      "rightValue": "12 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "23 lb",
+      "rightValue": "20 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "38 lb",
+      "rightValue": "31 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "56 lb",
+      "rightValue": "44 lb"
+    }
+  ]
+}

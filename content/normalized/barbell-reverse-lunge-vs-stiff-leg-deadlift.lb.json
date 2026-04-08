@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Reverse Lunge",
+  "rightName": "Stiff Leg Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "97 lb",
+      "rightValue": "119 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "150 lb",
+      "rightValue": "186 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "217 lb",
+      "rightValue": "273 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "297 lb",
+      "rightValue": "376 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "385 lb",
+      "rightValue": "491 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "49 lb",
+      "rightValue": "61 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "79 lb",
+      "rightValue": "99 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "118 lb",
+      "rightValue": "148 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "164 lb",
+      "rightValue": "207 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "216 lb",
+      "rightValue": "272 lb"
+    }
+  ]
+}

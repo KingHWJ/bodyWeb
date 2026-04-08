@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Upright Row",
+  "rightName": "Military Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "21 kg",
+      "rightValue": "31 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "39 kg",
+      "rightValue": "46 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "64 kg",
+      "rightValue": "64 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "94 kg",
+      "rightValue": "86 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "129 kg",
+      "rightValue": "109 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "11 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "20 kg",
+      "rightValue": "23 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "33 kg",
+      "rightValue": "34 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "49 kg",
+      "rightValue": "48 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "67 kg",
+      "rightValue": "64 kg"
+    }
+  ]
+}

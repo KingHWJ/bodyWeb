@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Front Squat",
+  "rightName": "Pin Squat",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "120 lb",
+      "rightValue": "124 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "170 lb",
+      "rightValue": "207 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "232 lb",
+      "rightValue": "316 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "303 lb",
+      "rightValue": "449 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "379 lb",
+      "rightValue": "596 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "67 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "98 lb",
+      "rightValue": "103 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "137 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "183 lb",
+      "rightValue": "204 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "232 lb",
+      "rightValue": "264 lb"
+    }
+  ]
+}

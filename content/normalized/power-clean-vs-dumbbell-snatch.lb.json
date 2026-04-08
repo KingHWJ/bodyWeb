@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Power Clean",
+  "rightName": "Dumbbell Snatch",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "102 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "147 lb",
+      "rightValue": "46 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "202 lb",
+      "rightValue": "76 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "266 lb",
+      "rightValue": "115 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "336 lb",
+      "rightValue": "159 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "60 lb",
+      "rightValue": "13 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "86 lb",
+      "rightValue": "25 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "119 lb",
+      "rightValue": "44 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "156 lb",
+      "rightValue": "67 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "197 lb",
+      "rightValue": "93 lb"
+    }
+  ]
+}

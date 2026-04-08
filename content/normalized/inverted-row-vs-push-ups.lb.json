@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Inverted Row",
+  "rightName": "Push Ups",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "-42 lb",
+      "rightValue": "-4 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+22 lb",
+      "rightValue": "+95 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+103 lb",
+      "rightValue": "+223 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+198 lb",
+      "rightValue": "+377 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+302 lb",
+      "rightValue": "+547 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "-42 lb",
+      "rightValue": "-37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "+2 lb",
+      "rightValue": "+16 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "+58 lb",
+      "rightValue": "+84 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "+122 lb",
+      "rightValue": "+164 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "+192 lb",
+      "rightValue": "+251 lb"
+    }
+  ]
+}

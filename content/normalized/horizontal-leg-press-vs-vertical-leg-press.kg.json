@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Horizontal Leg Press",
+  "rightName": "Vertical Leg Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "71 kg",
+      "rightValue": "81 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "123 kg",
+      "rightValue": "140 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "193 kg",
+      "rightValue": "220 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "278 kg",
+      "rightValue": "317 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "375 kg",
+      "rightValue": "427 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "37 kg",
+      "rightValue": "44 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "71 kg",
+      "rightValue": "86 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "117 kg",
+      "rightValue": "143 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "175 kg",
+      "rightValue": "216 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "241 kg",
+      "rightValue": "298 kg"
+    }
+  ]
+}

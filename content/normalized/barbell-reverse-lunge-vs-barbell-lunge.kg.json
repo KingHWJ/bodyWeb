@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Barbell Reverse Lunge",
+  "rightName": "Barbell Lunge",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "44 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "68 kg",
+      "rightValue": "52 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "99 kg",
+      "rightValue": "82 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "135 kg",
+      "rightValue": "119 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "175 kg",
+      "rightValue": "160 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "22 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "36 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "53 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "75 kg",
+      "rightValue": "71 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "98 kg",
+      "rightValue": "96 kg"
+    }
+  ]
+}

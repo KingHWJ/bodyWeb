@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Lying Dumbbell Tricep Extension",
+  "rightName": "Dumbbell Tricep Kickback",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "10 lb",
+      "rightValue": "9 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "24 lb",
+      "rightValue": "21 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "45 lb",
+      "rightValue": "40 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "73 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "105 lb",
+      "rightValue": "94 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "5 lb",
+      "rightValue": "7 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "14 lb",
+      "rightValue": "14 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "28 lb",
+      "rightValue": "24 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "47 lb",
+      "rightValue": "37 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "71 lb",
+      "rightValue": "51 lb"
+    }
+  ]
+}

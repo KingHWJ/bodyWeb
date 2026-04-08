@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Bench Pin Press",
+  "rightName": "Close Grip Bench Press",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "124 lb",
+      "rightValue": "104 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "177 lb",
+      "rightValue": "149 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "243 lb",
+      "rightValue": "206 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "320 lb",
+      "rightValue": "271 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "403 lb",
+      "rightValue": "342 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "27 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "53 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "88 lb",
+      "rightValue": "109 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "132 lb",
+      "rightValue": "153 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "183 lb",
+      "rightValue": "202 lb"
+    }
+  ]
+}

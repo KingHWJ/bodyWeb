@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Hammer Curl",
+  "rightName": "Barbell Curl",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "8 kg",
+      "rightValue": "17 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "15 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "23 kg",
+      "rightValue": "47 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "34 kg",
+      "rightValue": "68 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "46 kg",
+      "rightValue": "91 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "4 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "8 kg",
+      "rightValue": "14 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "13 kg",
+      "rightValue": "25 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "19 kg",
+      "rightValue": "39 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "26 kg",
+      "rightValue": "55 kg"
+    }
+  ]
+}

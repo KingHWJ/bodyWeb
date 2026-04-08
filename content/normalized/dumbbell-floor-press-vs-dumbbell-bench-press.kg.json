@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Floor Press",
+  "rightName": "Dumbbell Bench Press",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "14 kg",
+      "rightValue": "16 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "24 kg",
+      "rightValue": "27 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "36 kg",
+      "rightValue": "41 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "52 kg",
+      "rightValue": "58 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "69 kg",
+      "rightValue": "78 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "6 kg",
+      "rightValue": "6 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "12 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "20 kg",
+      "rightValue": "21 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "30 kg",
+      "rightValue": "32 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "42 kg",
+      "rightValue": "46 kg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Cable Pull Through",
+  "rightName": "Face Pull",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "13 kg",
+      "rightValue": "12 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "32 kg",
+      "rightValue": "26 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "60 kg",
+      "rightValue": "46 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "97 kg",
+      "rightValue": "71 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "140 kg",
+      "rightValue": "101 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "10 kg",
+      "rightValue": "10 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "23 kg",
+      "rightValue": "19 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "42 kg",
+      "rightValue": "33 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "67 kg",
+      "rightValue": "50 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "96 kg",
+      "rightValue": "70 kg"
+    }
+  ]
+}

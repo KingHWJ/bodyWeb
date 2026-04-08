@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Dumbbell Concentration Curl",
+  "rightName": "Zottman Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "15 lb",
+      "rightValue": "6 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "29 lb",
+      "rightValue": "21 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "48 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "73 lb",
+      "rightValue": "79 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "101 lb",
+      "rightValue": "120 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "9 lb",
+      "rightValue": "8 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "17 lb",
+      "rightValue": "17 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "30 lb",
+      "rightValue": "29 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "45 lb",
+      "rightValue": "45 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "63 lb",
+      "rightValue": "63 lb"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Clean",
+  "rightName": "Front Squat",
+  "unit": "kg",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "50 kg",
+      "rightValue": "55 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "70 kg",
+      "rightValue": "77 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "94 kg",
+      "rightValue": "105 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "121 kg",
+      "rightValue": "137 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "150 kg",
+      "rightValue": "172 kg"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "31 kg",
+      "rightValue": "30 kg"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "42 kg",
+      "rightValue": "45 kg"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "56 kg",
+      "rightValue": "62 kg"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "72 kg",
+      "rightValue": "83 kg"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "89 kg",
+      "rightValue": "105 kg"
+    }
+  ]
+}

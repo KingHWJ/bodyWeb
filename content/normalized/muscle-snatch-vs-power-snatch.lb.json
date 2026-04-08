@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Muscle Snatch",
+  "rightName": "Power Snatch",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "51 lb",
+      "rightValue": "72 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "92 lb",
+      "rightValue": "110 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "148 lb",
+      "rightValue": "159 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "217 lb",
+      "rightValue": "218 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "295 lb",
+      "rightValue": "282 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "36 lb",
+      "rightValue": "43 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "57 lb",
+      "rightValue": "64 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "83 lb",
+      "rightValue": "91 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "115 lb",
+      "rightValue": "123 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "149 lb",
+      "rightValue": "157 lb"
+    }
+  ]
+}

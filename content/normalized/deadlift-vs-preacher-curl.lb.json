@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Deadlift",
+  "rightName": "Preacher Curl",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "173 lb",
+      "rightValue": "37 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "246 lb",
+      "rightValue": "65 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "336 lb",
+      "rightValue": "101 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "440 lb",
+      "rightValue": "146 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "552 lb",
+      "rightValue": "197 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "84 lb",
+      "rightValue": "15 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "132 lb",
+      "rightValue": "32 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "193 lb",
+      "rightValue": "58 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "265 lb",
+      "rightValue": "90 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "345 lb",
+      "rightValue": "127 lb"
+    }
+  ]
+}

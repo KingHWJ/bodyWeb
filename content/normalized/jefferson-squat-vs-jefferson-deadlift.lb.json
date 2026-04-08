@@ -1,0 +1,60 @@
+{
+  "kind": "comparison",
+  "leftName": "Jefferson Squat",
+  "rightName": "Jefferson Deadlift",
+  "unit": "lb",
+  "male": [
+    {
+      "level": "Beginner",
+      "leftValue": "111 lb",
+      "rightValue": "143 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "171 lb",
+      "rightValue": "230 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "249 lb",
+      "rightValue": "342 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "341 lb",
+      "rightValue": "476 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "443 lb",
+      "rightValue": "625 lb"
+    }
+  ],
+  "female": [
+    {
+      "level": "Beginner",
+      "leftValue": "56 lb",
+      "rightValue": "56 lb"
+    },
+    {
+      "level": "Novice",
+      "leftValue": "94 lb",
+      "rightValue": "94 lb"
+    },
+    {
+      "level": "Intermediate",
+      "leftValue": "145 lb",
+      "rightValue": "145 lb"
+    },
+    {
+      "level": "Advanced",
+      "leftValue": "207 lb",
+      "rightValue": "207 lb"
+    },
+    {
+      "level": "Elite",
+      "leftValue": "276 lb",
+      "rightValue": "276 lb"
+    }
+  ]
+}
